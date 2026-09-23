@@ -28,7 +28,7 @@ Unlike static mock dashboards, Global Development Pulse functions as an autonomo
 
 ## Live Demo & Architecture
 
-- **Production URL:** [https://global-development-pulse.vercel.app](https://global-development-pulse.vercel.app)
+- **Production URL:** [[https://global-development-pulse.vercel.app](https://global-development-pulse-two.vercel.app/)]
 - **Interactive Pages:**
   - `/` — Global KPI metrics, featured digital connectivity trend, tracked economies snapshot.
   - `/countries` — Searchable directory with region and income group filters.
