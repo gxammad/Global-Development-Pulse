@@ -1,0 +1,1756 @@
+{
+  "indicator": {
+    "id": "inflation_consumer_prices",
+    "code": "FP.CPI.TOTL.ZG",
+    "name": "Inflation, Consumer Prices (Annual %)",
+    "short_description": "Annual percentage change in the cost to the average consumer of acquiring a basket of goods and services.",
+    "category": "Economic",
+    "unit": "%",
+    "source": "International Monetary Fund, International Financial Statistics and data files.",
+    "format": "percentage",
+    "chart_type": "line",
+    "descriptive_only": true
+  },
+  "countries": {
+    "PAK": {
+      "country": {
+        "id": "pakistan",
+        "iso3": "PAK",
+        "iso2": "PK",
+        "name": "Pakistan",
+        "region": "South Asia",
+        "income_group": "Lower middle income",
+        "capital": "Islamabad",
+        "flag_emoji": "\ud83c\uddf5\ud83c\uddf0"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.3667
+        },
+        {
+          "year": 2001,
+          "value": 3.1483
+        },
+        {
+          "year": 2002,
+          "value": 3.2903
+        },
+        {
+          "year": 2003,
+          "value": 2.9141
+        },
+        {
+          "year": 2004,
+          "value": 7.4446
+        },
+        {
+          "year": 2005,
+          "value": 9.0633
+        },
+        {
+          "year": 2006,
+          "value": 7.9211
+        },
+        {
+          "year": 2007,
+          "value": 7.5987
+        },
+        {
+          "year": 2008,
+          "value": 20.2861
+        },
+        {
+          "year": 2009,
+          "value": 13.6478
+        },
+        {
+          "year": 2010,
+          "value": 12.9389
+        },
+        {
+          "year": 2011,
+          "value": 11.9161
+        },
+        {
+          "year": 2012,
+          "value": 9.6824
+        },
+        {
+          "year": 2013,
+          "value": 7.6922
+        },
+        {
+          "year": 2014,
+          "value": 7.1894
+        },
+        {
+          "year": 2015,
+          "value": 2.5293
+        },
+        {
+          "year": 2016,
+          "value": 3.7651
+        },
+        {
+          "year": 2017,
+          "value": 4.0854
+        },
+        {
+          "year": 2018,
+          "value": 5.0781
+        },
+        {
+          "year": 2019,
+          "value": 10.578
+        },
+        {
+          "year": 2020,
+          "value": 9.7401
+        },
+        {
+          "year": 2021,
+          "value": 9.4964
+        },
+        {
+          "year": 2022,
+          "value": 19.8739
+        },
+        {
+          "year": 2023,
+          "value": 30.7681
+        },
+        {
+          "year": 2024,
+          "value": 12.6325
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 12.6325
+    },
+    "IND": {
+      "country": {
+        "id": "india",
+        "iso3": "IND",
+        "iso2": "IN",
+        "name": "India",
+        "region": "South Asia",
+        "income_group": "Lower middle income",
+        "capital": "New Delhi",
+        "flag_emoji": "\ud83c\uddee\ud83c\uddf3"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.0094
+        },
+        {
+          "year": 2001,
+          "value": 3.7793
+        },
+        {
+          "year": 2002,
+          "value": 4.2972
+        },
+        {
+          "year": 2003,
+          "value": 3.8059
+        },
+        {
+          "year": 2004,
+          "value": 3.7673
+        },
+        {
+          "year": 2005,
+          "value": 4.2463
+        },
+        {
+          "year": 2006,
+          "value": 5.7965
+        },
+        {
+          "year": 2007,
+          "value": 6.3729
+        },
+        {
+          "year": 2008,
+          "value": 8.3493
+        },
+        {
+          "year": 2009,
+          "value": 10.8824
+        },
+        {
+          "year": 2010,
+          "value": 11.9894
+        },
+        {
+          "year": 2011,
+          "value": 8.9118
+        },
+        {
+          "year": 2012,
+          "value": 9.479
+        },
+        {
+          "year": 2013,
+          "value": 10.0179
+        },
+        {
+          "year": 2014,
+          "value": 6.6657
+        },
+        {
+          "year": 2015,
+          "value": 4.907
+        },
+        {
+          "year": 2016,
+          "value": 4.9482
+        },
+        {
+          "year": 2017,
+          "value": 3.3282
+        },
+        {
+          "year": 2018,
+          "value": 3.9388
+        },
+        {
+          "year": 2019,
+          "value": 3.7295
+        },
+        {
+          "year": 2020,
+          "value": 6.6234
+        },
+        {
+          "year": 2021,
+          "value": 5.1314
+        },
+        {
+          "year": 2022,
+          "value": 6.699
+        },
+        {
+          "year": 2023,
+          "value": 5.6491
+        },
+        {
+          "year": 2024,
+          "value": 4.953
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 4.953
+    },
+    "BGD": {
+      "country": {
+        "id": "bangladesh",
+        "iso3": "BGD",
+        "iso2": "BD",
+        "name": "Bangladesh",
+        "region": "South Asia",
+        "income_group": "Lower middle income",
+        "capital": "Dhaka",
+        "flag_emoji": "\ud83c\udde7\ud83c\udde9"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 2.2083
+        },
+        {
+          "year": 2001,
+          "value": 2.0072
+        },
+        {
+          "year": 2002,
+          "value": 3.3326
+        },
+        {
+          "year": 2003,
+          "value": 5.6687
+        },
+        {
+          "year": 2004,
+          "value": 7.5875
+        },
+        {
+          "year": 2005,
+          "value": 7.0466
+        },
+        {
+          "year": 2006,
+          "value": 6.7653
+        },
+        {
+          "year": 2007,
+          "value": 9.107
+        },
+        {
+          "year": 2008,
+          "value": 8.9019
+        },
+        {
+          "year": 2009,
+          "value": 5.4235
+        },
+        {
+          "year": 2010,
+          "value": 8.1267
+        },
+        {
+          "year": 2011,
+          "value": 11.3952
+        },
+        {
+          "year": 2012,
+          "value": 6.2175
+        },
+        {
+          "year": 2013,
+          "value": 7.5304
+        },
+        {
+          "year": 2014,
+          "value": 6.9916
+        },
+        {
+          "year": 2015,
+          "value": 6.1943
+        },
+        {
+          "year": 2016,
+          "value": 5.5135
+        },
+        {
+          "year": 2017,
+          "value": 5.7021
+        },
+        {
+          "year": 2018,
+          "value": 5.5436
+        },
+        {
+          "year": 2019,
+          "value": 5.592
+        },
+        {
+          "year": 2020,
+          "value": 5.6911
+        },
+        {
+          "year": 2021,
+          "value": 5.5457
+        },
+        {
+          "year": 2022,
+          "value": 7.697
+        },
+        {
+          "year": 2023,
+          "value": 9.8835
+        },
+        {
+          "year": 2024,
+          "value": 10.4657
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 10.4657
+    },
+    "LKA": {
+      "country": {
+        "id": "sri-lanka",
+        "iso3": "LKA",
+        "iso2": "LK",
+        "name": "Sri Lanka",
+        "region": "South Asia",
+        "income_group": "Lower middle income",
+        "capital": "Colombo",
+        "flag_emoji": "\ud83c\uddf1\ud83c\uddf0"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 6.1763
+        },
+        {
+          "year": 2001,
+          "value": 14.1585
+        },
+        {
+          "year": 2002,
+          "value": 9.551
+        },
+        {
+          "year": 2003,
+          "value": 6.3146
+        },
+        {
+          "year": 2004,
+          "value": 7.5759
+        },
+        {
+          "year": 2005,
+          "value": 11.6397
+        },
+        {
+          "year": 2006,
+          "value": 10.0202
+        },
+        {
+          "year": 2007,
+          "value": 15.8421
+        },
+        {
+          "year": 2008,
+          "value": 22.5645
+        },
+        {
+          "year": 2009,
+          "value": 3.465
+        },
+        {
+          "year": 2010,
+          "value": 6.2176
+        },
+        {
+          "year": 2011,
+          "value": 6.7168
+        },
+        {
+          "year": 2012,
+          "value": 7.5429
+        },
+        {
+          "year": 2013,
+          "value": 6.9085
+        },
+        {
+          "year": 2014,
+          "value": 3.179
+        },
+        {
+          "year": 2015,
+          "value": 3.7684
+        },
+        {
+          "year": 2016,
+          "value": 3.9589
+        },
+        {
+          "year": 2017,
+          "value": 7.7041
+        },
+        {
+          "year": 2018,
+          "value": 2.135
+        },
+        {
+          "year": 2019,
+          "value": 3.5284
+        },
+        {
+          "year": 2020,
+          "value": 6.1539
+        },
+        {
+          "year": 2021,
+          "value": 7.0148
+        },
+        {
+          "year": 2022,
+          "value": 49.7211
+        },
+        {
+          "year": 2023,
+          "value": 16.5412
+        },
+        {
+          "year": 2024,
+          "value": -0.4294
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": -0.4294
+    },
+    "NPL": {
+      "country": {
+        "id": "nepal",
+        "iso3": "NPL",
+        "iso2": "NP",
+        "name": "Nepal",
+        "region": "South Asia",
+        "income_group": "Lower middle income",
+        "capital": "Kathmandu",
+        "flag_emoji": "\ud83c\uddf3\ud83c\uddf5"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 2.4788
+        },
+        {
+          "year": 2001,
+          "value": 2.6883
+        },
+        {
+          "year": 2002,
+          "value": 3.0294
+        },
+        {
+          "year": 2003,
+          "value": 5.707
+        },
+        {
+          "year": 2004,
+          "value": 2.8418
+        },
+        {
+          "year": 2005,
+          "value": 6.8363
+        },
+        {
+          "year": 2006,
+          "value": 6.9203
+        },
+        {
+          "year": 2007,
+          "value": 2.2692
+        },
+        {
+          "year": 2008,
+          "value": 9.9078
+        },
+        {
+          "year": 2009,
+          "value": 11.0948
+        },
+        {
+          "year": 2010,
+          "value": 9.3265
+        },
+        {
+          "year": 2011,
+          "value": 9.2271
+        },
+        {
+          "year": 2012,
+          "value": 9.4598
+        },
+        {
+          "year": 2013,
+          "value": 9.0402
+        },
+        {
+          "year": 2014,
+          "value": 8.3642
+        },
+        {
+          "year": 2015,
+          "value": 7.8689
+        },
+        {
+          "year": 2016,
+          "value": 8.7903
+        },
+        {
+          "year": 2017,
+          "value": 2.777
+        },
+        {
+          "year": 2018,
+          "value": 4.4066
+        },
+        {
+          "year": 2019,
+          "value": 5.5662
+        },
+        {
+          "year": 2020,
+          "value": 5.0564
+        },
+        {
+          "year": 2021,
+          "value": 4.1268
+        },
+        {
+          "year": 2022,
+          "value": 7.6702
+        },
+        {
+          "year": 2023,
+          "value": 7.1159
+        },
+        {
+          "year": 2024,
+          "value": 4.6851
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 4.6851
+    },
+    "ARE": {
+      "country": {
+        "id": "united-arab-emirates",
+        "iso3": "ARE",
+        "iso2": "AE",
+        "name": "United Arab Emirates",
+        "region": "Middle East & North Africa",
+        "income_group": "High income",
+        "capital": "Abu Dhabi",
+        "flag_emoji": "\ud83c\udde6\ud83c\uddea"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": null
+        },
+        {
+          "year": 2001,
+          "value": null
+        },
+        {
+          "year": 2002,
+          "value": null
+        },
+        {
+          "year": 2003,
+          "value": null
+        },
+        {
+          "year": 2004,
+          "value": null
+        },
+        {
+          "year": 2005,
+          "value": null
+        },
+        {
+          "year": 2006,
+          "value": null
+        },
+        {
+          "year": 2007,
+          "value": null
+        },
+        {
+          "year": 2008,
+          "value": 12.2504
+        },
+        {
+          "year": 2009,
+          "value": 1.5618
+        },
+        {
+          "year": 2010,
+          "value": 0.878
+        },
+        {
+          "year": 2011,
+          "value": 0.8773
+        },
+        {
+          "year": 2012,
+          "value": 0.6623
+        },
+        {
+          "year": 2013,
+          "value": 1.1011
+        },
+        {
+          "year": 2014,
+          "value": 2.3463
+        },
+        {
+          "year": 2015,
+          "value": 4.07
+        },
+        {
+          "year": 2016,
+          "value": 1.6175
+        },
+        {
+          "year": 2017,
+          "value": 1.9668
+        },
+        {
+          "year": 2018,
+          "value": 3.0686
+        },
+        {
+          "year": 2019,
+          "value": -1.9311
+        },
+        {
+          "year": 2020,
+          "value": -2.0794
+        },
+        {
+          "year": 2021,
+          "value": 0.1799
+        },
+        {
+          "year": 2022,
+          "value": 5.2912
+        },
+        {
+          "year": 2023,
+          "value": 1.6267
+        },
+        {
+          "year": 2024,
+          "value": 1.6634
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1.6634
+    },
+    "SAU": {
+      "country": {
+        "id": "saudi-arabia",
+        "iso3": "SAU",
+        "iso2": "SA",
+        "name": "Saudi Arabia",
+        "region": "Middle East & North Africa",
+        "income_group": "High income",
+        "capital": "Riyadh",
+        "flag_emoji": "\ud83c\uddf8\ud83c\udde6"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": -1.125
+        },
+        {
+          "year": 2001,
+          "value": -1.1209
+        },
+        {
+          "year": 2002,
+          "value": 0.2472
+        },
+        {
+          "year": 2003,
+          "value": 0.6122
+        },
+        {
+          "year": 2004,
+          "value": 0.5155
+        },
+        {
+          "year": 2005,
+          "value": 0.4792
+        },
+        {
+          "year": 2006,
+          "value": 2.209
+        },
+        {
+          "year": 2007,
+          "value": 4.1678
+        },
+        {
+          "year": 2008,
+          "value": 9.8702
+        },
+        {
+          "year": 2009,
+          "value": 5.0572
+        },
+        {
+          "year": 2010,
+          "value": 5.3394
+        },
+        {
+          "year": 2011,
+          "value": 5.8262
+        },
+        {
+          "year": 2012,
+          "value": 2.8663
+        },
+        {
+          "year": 2013,
+          "value": 3.511
+        },
+        {
+          "year": 2014,
+          "value": 2.2419
+        },
+        {
+          "year": 2015,
+          "value": 1.2227
+        },
+        {
+          "year": 2016,
+          "value": 2.0535
+        },
+        {
+          "year": 2017,
+          "value": -0.8348
+        },
+        {
+          "year": 2018,
+          "value": 2.4659
+        },
+        {
+          "year": 2019,
+          "value": -1.193
+        },
+        {
+          "year": 2020,
+          "value": 3.3723
+        },
+        {
+          "year": 2021,
+          "value": 3.0633
+        },
+        {
+          "year": 2022,
+          "value": 2.4741
+        },
+        {
+          "year": 2023,
+          "value": 2.3271
+        },
+        {
+          "year": 2024,
+          "value": 1.6879
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1.6879
+    },
+    "GBR": {
+      "country": {
+        "id": "united-kingdom",
+        "iso3": "GBR",
+        "iso2": "GB",
+        "name": "United Kingdom",
+        "region": "Europe & Central Asia",
+        "income_group": "High income",
+        "capital": "London",
+        "flag_emoji": "\ud83c\uddec\ud83c\udde7"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 1.183
+        },
+        {
+          "year": 2001,
+          "value": 1.5323
+        },
+        {
+          "year": 2002,
+          "value": 1.5204
+        },
+        {
+          "year": 2003,
+          "value": 1.3765
+        },
+        {
+          "year": 2004,
+          "value": 1.3904
+        },
+        {
+          "year": 2005,
+          "value": 2.0891
+        },
+        {
+          "year": 2006,
+          "value": 2.4557
+        },
+        {
+          "year": 2007,
+          "value": 2.3866
+        },
+        {
+          "year": 2008,
+          "value": 3.5214
+        },
+        {
+          "year": 2009,
+          "value": 1.9617
+        },
+        {
+          "year": 2010,
+          "value": 2.4927
+        },
+        {
+          "year": 2011,
+          "value": 3.8561
+        },
+        {
+          "year": 2012,
+          "value": 2.5732
+        },
+        {
+          "year": 2013,
+          "value": 2.2917
+        },
+        {
+          "year": 2014,
+          "value": 1.4511
+        },
+        {
+          "year": 2015,
+          "value": 0.368
+        },
+        {
+          "year": 2016,
+          "value": 1.0084
+        },
+        {
+          "year": 2017,
+          "value": 2.5578
+        },
+        {
+          "year": 2018,
+          "value": 2.2928
+        },
+        {
+          "year": 2019,
+          "value": 1.7381
+        },
+        {
+          "year": 2020,
+          "value": 0.9895
+        },
+        {
+          "year": 2021,
+          "value": 2.5184
+        },
+        {
+          "year": 2022,
+          "value": 7.922
+        },
+        {
+          "year": 2023,
+          "value": 6.794
+        },
+        {
+          "year": 2024,
+          "value": 3.2716
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 3.2716
+    },
+    "USA": {
+      "country": {
+        "id": "united-states",
+        "iso3": "USA",
+        "iso2": "US",
+        "name": "United States",
+        "region": "North America",
+        "income_group": "High income",
+        "capital": "Washington, D.C.",
+        "flag_emoji": "\ud83c\uddfa\ud83c\uddf8"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 3.3769
+        },
+        {
+          "year": 2001,
+          "value": 2.8262
+        },
+        {
+          "year": 2002,
+          "value": 1.586
+        },
+        {
+          "year": 2003,
+          "value": 2.2701
+        },
+        {
+          "year": 2004,
+          "value": 2.6772
+        },
+        {
+          "year": 2005,
+          "value": 3.3927
+        },
+        {
+          "year": 2006,
+          "value": 3.2259
+        },
+        {
+          "year": 2007,
+          "value": 2.8527
+        },
+        {
+          "year": 2008,
+          "value": 3.8391
+        },
+        {
+          "year": 2009,
+          "value": -0.3555
+        },
+        {
+          "year": 2010,
+          "value": 1.64
+        },
+        {
+          "year": 2011,
+          "value": 3.1568
+        },
+        {
+          "year": 2012,
+          "value": 2.0693
+        },
+        {
+          "year": 2013,
+          "value": 1.4648
+        },
+        {
+          "year": 2014,
+          "value": 1.6222
+        },
+        {
+          "year": 2015,
+          "value": 0.1186
+        },
+        {
+          "year": 2016,
+          "value": 1.2616
+        },
+        {
+          "year": 2017,
+          "value": 2.1301
+        },
+        {
+          "year": 2018,
+          "value": 2.4426
+        },
+        {
+          "year": 2019,
+          "value": 1.8122
+        },
+        {
+          "year": 2020,
+          "value": 1.2336
+        },
+        {
+          "year": 2021,
+          "value": 4.6979
+        },
+        {
+          "year": 2022,
+          "value": 8.0028
+        },
+        {
+          "year": 2023,
+          "value": 4.1163
+        },
+        {
+          "year": 2024,
+          "value": 2.9495
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 2.9495
+    },
+    "CAN": {
+      "country": {
+        "id": "canada",
+        "iso3": "CAN",
+        "iso2": "CA",
+        "name": "Canada",
+        "region": "North America",
+        "income_group": "High income",
+        "capital": "Ottawa",
+        "flag_emoji": "\ud83c\udde8\ud83c\udde6"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 2.7194
+        },
+        {
+          "year": 2001,
+          "value": 2.5251
+        },
+        {
+          "year": 2002,
+          "value": 2.2584
+        },
+        {
+          "year": 2003,
+          "value": 2.7586
+        },
+        {
+          "year": 2004,
+          "value": 1.8573
+        },
+        {
+          "year": 2005,
+          "value": 2.2136
+        },
+        {
+          "year": 2006,
+          "value": 2.002
+        },
+        {
+          "year": 2007,
+          "value": 2.1384
+        },
+        {
+          "year": 2008,
+          "value": 2.3703
+        },
+        {
+          "year": 2009,
+          "value": 0.2995
+        },
+        {
+          "year": 2010,
+          "value": 1.7769
+        },
+        {
+          "year": 2011,
+          "value": 2.9121
+        },
+        {
+          "year": 2012,
+          "value": 1.5157
+        },
+        {
+          "year": 2013,
+          "value": 0.9383
+        },
+        {
+          "year": 2014,
+          "value": 1.9066
+        },
+        {
+          "year": 2015,
+          "value": 1.1252
+        },
+        {
+          "year": 2016,
+          "value": 1.4288
+        },
+        {
+          "year": 2017,
+          "value": 1.5969
+        },
+        {
+          "year": 2018,
+          "value": 2.2682
+        },
+        {
+          "year": 2019,
+          "value": 1.9493
+        },
+        {
+          "year": 2020,
+          "value": 0.717
+        },
+        {
+          "year": 2021,
+          "value": 3.3952
+        },
+        {
+          "year": 2022,
+          "value": 6.8028
+        },
+        {
+          "year": 2023,
+          "value": 3.879
+        },
+        {
+          "year": 2024,
+          "value": 2.3816
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 2.3816
+    },
+    "DEU": {
+      "country": {
+        "id": "germany",
+        "iso3": "DEU",
+        "iso2": "DE",
+        "name": "Germany",
+        "region": "Europe & Central Asia",
+        "income_group": "High income",
+        "capital": "Berlin",
+        "flag_emoji": "\ud83c\udde9\ud83c\uddea"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 1.4403
+        },
+        {
+          "year": 2001,
+          "value": 1.9839
+        },
+        {
+          "year": 2002,
+          "value": 1.4208
+        },
+        {
+          "year": 2003,
+          "value": 1.0342
+        },
+        {
+          "year": 2004,
+          "value": 1.6657
+        },
+        {
+          "year": 2005,
+          "value": 1.5469
+        },
+        {
+          "year": 2006,
+          "value": 1.5774
+        },
+        {
+          "year": 2007,
+          "value": 2.2983
+        },
+        {
+          "year": 2008,
+          "value": 2.6284
+        },
+        {
+          "year": 2009,
+          "value": 0.3127
+        },
+        {
+          "year": 2010,
+          "value": 1.1038
+        },
+        {
+          "year": 2011,
+          "value": 2.0752
+        },
+        {
+          "year": 2012,
+          "value": 2.0085
+        },
+        {
+          "year": 2013,
+          "value": 1.5047
+        },
+        {
+          "year": 2014,
+          "value": 0.9068
+        },
+        {
+          "year": 2015,
+          "value": 0.5144
+        },
+        {
+          "year": 2016,
+          "value": 0.4917
+        },
+        {
+          "year": 2017,
+          "value": 1.5095
+        },
+        {
+          "year": 2018,
+          "value": 1.7322
+        },
+        {
+          "year": 2019,
+          "value": 1.4457
+        },
+        {
+          "year": 2020,
+          "value": 0.1449
+        },
+        {
+          "year": 2021,
+          "value": 3.0667
+        },
+        {
+          "year": 2022,
+          "value": 6.8726
+        },
+        {
+          "year": 2023,
+          "value": 5.9464
+        },
+        {
+          "year": 2024,
+          "value": 2.2565
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 2.2565
+    },
+    "FRA": {
+      "country": {
+        "id": "france",
+        "iso3": "FRA",
+        "iso2": "FR",
+        "name": "France",
+        "region": "Europe & Central Asia",
+        "income_group": "High income",
+        "capital": "Paris",
+        "flag_emoji": "\ud83c\uddeb\ud83c\uddf7"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 1.676
+        },
+        {
+          "year": 2001,
+          "value": 1.6348
+        },
+        {
+          "year": 2002,
+          "value": 1.9234
+        },
+        {
+          "year": 2003,
+          "value": 2.0985
+        },
+        {
+          "year": 2004,
+          "value": 2.1421
+        },
+        {
+          "year": 2005,
+          "value": 1.7459
+        },
+        {
+          "year": 2006,
+          "value": 1.6751
+        },
+        {
+          "year": 2007,
+          "value": 1.488
+        },
+        {
+          "year": 2008,
+          "value": 2.8129
+        },
+        {
+          "year": 2009,
+          "value": 0.0876
+        },
+        {
+          "year": 2010,
+          "value": 1.5311
+        },
+        {
+          "year": 2011,
+          "value": 2.1116
+        },
+        {
+          "year": 2012,
+          "value": 1.9542
+        },
+        {
+          "year": 2013,
+          "value": 0.8637
+        },
+        {
+          "year": 2014,
+          "value": 0.5078
+        },
+        {
+          "year": 2015,
+          "value": 0.0375
+        },
+        {
+          "year": 2016,
+          "value": 0.1833
+        },
+        {
+          "year": 2017,
+          "value": 1.0323
+        },
+        {
+          "year": 2018,
+          "value": 1.8508
+        },
+        {
+          "year": 2019,
+          "value": 1.1083
+        },
+        {
+          "year": 2020,
+          "value": 0.4765
+        },
+        {
+          "year": 2021,
+          "value": 1.6423
+        },
+        {
+          "year": 2022,
+          "value": 5.2224
+        },
+        {
+          "year": 2023,
+          "value": 4.8784
+        },
+        {
+          "year": 2024,
+          "value": 1.999
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1.999
+    },
+    "JPN": {
+      "country": {
+        "id": "japan",
+        "iso3": "JPN",
+        "iso2": "JP",
+        "name": "Japan",
+        "region": "East Asia & Pacific",
+        "income_group": "High income",
+        "capital": "Tokyo",
+        "flag_emoji": "\ud83c\uddef\ud83c\uddf5"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": -0.6766
+        },
+        {
+          "year": 2001,
+          "value": -0.7401
+        },
+        {
+          "year": 2002,
+          "value": -0.9235
+        },
+        {
+          "year": 2003,
+          "value": -0.2565
+        },
+        {
+          "year": 2004,
+          "value": -0.0086
+        },
+        {
+          "year": 2005,
+          "value": -0.2829
+        },
+        {
+          "year": 2006,
+          "value": 0.2494
+        },
+        {
+          "year": 2007,
+          "value": 0.06
+        },
+        {
+          "year": 2008,
+          "value": 1.3801
+        },
+        {
+          "year": 2009,
+          "value": -1.3528
+        },
+        {
+          "year": 2010,
+          "value": -0.7282
+        },
+        {
+          "year": 2011,
+          "value": -0.2725
+        },
+        {
+          "year": 2012,
+          "value": -0.0441
+        },
+        {
+          "year": 2013,
+          "value": 0.335
+        },
+        {
+          "year": 2014,
+          "value": 2.7592
+        },
+        {
+          "year": 2015,
+          "value": 0.7953
+        },
+        {
+          "year": 2016,
+          "value": -0.1273
+        },
+        {
+          "year": 2017,
+          "value": 0.4842
+        },
+        {
+          "year": 2018,
+          "value": 0.9891
+        },
+        {
+          "year": 2019,
+          "value": 0.4688
+        },
+        {
+          "year": 2020,
+          "value": -0.025
+        },
+        {
+          "year": 2021,
+          "value": -0.2334
+        },
+        {
+          "year": 2022,
+          "value": 2.4977
+        },
+        {
+          "year": 2023,
+          "value": 3.2681
+        },
+        {
+          "year": 2024,
+          "value": 2.7385
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 2.7385
+    },
+    "AUS": {
+      "country": {
+        "id": "australia",
+        "iso3": "AUS",
+        "iso2": "AU",
+        "name": "Australia",
+        "region": "East Asia & Pacific",
+        "income_group": "High income",
+        "capital": "Canberra",
+        "flag_emoji": "\ud83c\udde6\ud83c\uddfa"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.4574
+        },
+        {
+          "year": 2001,
+          "value": 4.4071
+        },
+        {
+          "year": 2002,
+          "value": 2.9816
+        },
+        {
+          "year": 2003,
+          "value": 2.7326
+        },
+        {
+          "year": 2004,
+          "value": 2.3433
+        },
+        {
+          "year": 2005,
+          "value": 2.6918
+        },
+        {
+          "year": 2006,
+          "value": 3.5553
+        },
+        {
+          "year": 2007,
+          "value": 2.3276
+        },
+        {
+          "year": 2008,
+          "value": 4.3503
+        },
+        {
+          "year": 2009,
+          "value": 1.7711
+        },
+        {
+          "year": 2010,
+          "value": 2.9183
+        },
+        {
+          "year": 2011,
+          "value": 3.3038
+        },
+        {
+          "year": 2012,
+          "value": 1.7628
+        },
+        {
+          "year": 2013,
+          "value": 2.4499
+        },
+        {
+          "year": 2014,
+          "value": 2.4879
+        },
+        {
+          "year": 2015,
+          "value": 1.5084
+        },
+        {
+          "year": 2016,
+          "value": 1.277
+        },
+        {
+          "year": 2017,
+          "value": 1.9486
+        },
+        {
+          "year": 2018,
+          "value": 1.9114
+        },
+        {
+          "year": 2019,
+          "value": 1.6108
+        },
+        {
+          "year": 2020,
+          "value": 0.8469
+        },
+        {
+          "year": 2021,
+          "value": 2.8639
+        },
+        {
+          "year": 2022,
+          "value": 6.5941
+        },
+        {
+          "year": 2023,
+          "value": 5.597
+        },
+        {
+          "year": 2024,
+          "value": 3.1666
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 3.1666
+    },
+    "CHN": {
+      "country": {
+        "id": "china",
+        "iso3": "CHN",
+        "iso2": "CN",
+        "name": "China",
+        "region": "East Asia & Pacific",
+        "income_group": "Upper middle income",
+        "capital": "Beijing",
+        "flag_emoji": "\ud83c\udde8\ud83c\uddf3"
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 0.3478
+        },
+        {
+          "year": 2001,
+          "value": 0.7191
+        },
+        {
+          "year": 2002,
+          "value": -0.732
+        },
+        {
+          "year": 2003,
+          "value": 1.1276
+        },
+        {
+          "year": 2004,
+          "value": 3.8246
+        },
+        {
+          "year": 2005,
+          "value": 1.7764
+        },
+        {
+          "year": 2006,
+          "value": 1.6494
+        },
+        {
+          "year": 2007,
+          "value": 4.8168
+        },
+        {
+          "year": 2008,
+          "value": 5.9253
+        },
+        {
+          "year": 2009,
+          "value": -0.7282
+        },
+        {
+          "year": 2010,
+          "value": 3.1753
+        },
+        {
+          "year": 2011,
+          "value": 5.5539
+        },
+        {
+          "year": 2012,
+          "value": 2.6195
+        },
+        {
+          "year": 2013,
+          "value": 2.6211
+        },
+        {
+          "year": 2014,
+          "value": 1.9216
+        },
+        {
+          "year": 2015,
+          "value": 1.437
+        },
+        {
+          "year": 2016,
+          "value": 2.0
+        },
+        {
+          "year": 2017,
+          "value": 1.5931
+        },
+        {
+          "year": 2018,
+          "value": 2.0748
+        },
+        {
+          "year": 2019,
+          "value": 2.8992
+        },
+        {
+          "year": 2020,
+          "value": 2.4194
+        },
+        {
+          "year": 2021,
+          "value": 0.981
+        },
+        {
+          "year": 2022,
+          "value": 1.9736
+        },
+        {
+          "year": 2023,
+          "value": 0.2348
+        },
+        {
+          "year": 2024,
+          "value": 0.2181
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 0.2181
+    }
+  }
+}

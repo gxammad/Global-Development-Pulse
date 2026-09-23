@@ -1,0 +1,752 @@
+[
+  {
+    "id": "pakistan",
+    "iso3": "PAK",
+    "iso2": "PK",
+    "name": "Pakistan",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "capital": "Islamabad",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf0",
+    "summary_metrics": {
+      "gdp": {
+        "value": 371747087751.306,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 1479.4776,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 251269164.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 67.799,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 5.492,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 57.253,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 94.1,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "india",
+    "iso3": "IND",
+    "iso2": "IN",
+    "name": "India",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "capital": "New Delhi",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf3",
+    "summary_metrics": {
+      "gdp": {
+        "value": 3760813470500.86,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 2591.9917,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 1450935791.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 72.235,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 4.173,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 64.9435,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 94.4,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "bangladesh",
+    "iso3": "BGD",
+    "iso2": "BD",
+    "name": "Bangladesh",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "capital": "Dhaka",
+    "flag_emoji": "\ud83c\udde7\ud83c\udde9",
+    "summary_metrics": {
+      "gdp": {
+        "value": 450119432068.852,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 2593.4161,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 173562364.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 74.93,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 3.635,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 53.4217,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 93.7,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "sri-lanka",
+    "iso3": "LKA",
+    "iso2": "LK",
+    "name": "Sri Lanka",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "capital": "Colombo",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf0",
+    "summary_metrics": {
+      "gdp": {
+        "value": 99616111265.7633,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 4545.3601,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 21916000.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 77.672,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 4.239,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 54.59,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 91.2,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "nepal",
+    "iso3": "NPL",
+    "iso2": "NP",
+    "name": "Nepal",
+    "region": "South Asia",
+    "income_group": "Lower middle income",
+    "capital": "Kathmandu",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf5",
+    "summary_metrics": {
+      "gdp": {
+        "value": 43298911699.9284,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 1460.2824,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 29651054.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 70.636,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 10.5,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 46.3219,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 93.2,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "united-arab-emirates",
+    "iso3": "ARE",
+    "iso2": "AE",
+    "name": "United Arab Emirates",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "capital": "Abu Dhabi",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddea",
+    "summary_metrics": {
+      "gdp": {
+        "value": 552324919095.872,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 50273.5126,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 10986400.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 83.069,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 2.16,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 100.0,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 86.4,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "saudi-arabia",
+    "iso3": "SAU",
+    "iso2": "SA",
+    "name": "Saudi Arabia",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "capital": "Riyadh",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde6",
+    "summary_metrics": {
+      "gdp": {
+        "value": 1254140800000.0,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 35527.7862,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 35300280.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 78.982,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 3.518,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 100.0,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 90.3,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "united-kingdom",
+    "iso3": "GBR",
+    "iso2": "GB",
+    "name": "United Kingdom",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "capital": "London",
+    "flag_emoji": "\ud83c\uddec\ud83c\udde7",
+    "summary_metrics": {
+      "gdp": {
+        "value": 3695539513534.15,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 53341.3131,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 69281000.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 81.3869,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 4.361,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 95.4721,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 93.3,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "united-states",
+    "iso3": "USA",
+    "iso2": "US",
+    "name": "United States",
+    "region": "North America",
+    "income_group": "High income",
+    "capital": "Washington, D.C.",
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "summary_metrics": {
+      "gdp": {
+        "value": 29298013000000.0,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 86169.6642,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 340003797.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 78.8902,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 4.022,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 94.6938,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 88.1,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "canada",
+    "iso3": "CAN",
+    "iso2": "CA",
+    "name": "Canada",
+    "region": "North America",
+    "income_group": "High income",
+    "capital": "Ottawa",
+    "flag_emoji": "\ud83c\udde8\ud83c\udde6",
+    "summary_metrics": {
+      "gdp": {
+        "value": 2270076189683.46,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 55015.7067,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 41262329.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 82.108,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 6.351,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 94.3533,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 92.3,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "germany",
+    "iso3": "DEU",
+    "iso2": "DE",
+    "name": "Germany",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "capital": "Berlin",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddea",
+    "summary_metrics": {
+      "gdp": {
+        "value": 4685592577804.69,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 56103.7323,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 83516593.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 80.7927,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 3.4,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 93.5,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 92.5,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "france",
+    "iso3": "FRA",
+    "iso2": "FR",
+    "name": "France",
+    "region": "Europe & Central Asia",
+    "income_group": "High income",
+    "capital": "Paris",
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddf7",
+    "summary_metrics": {
+      "gdp": {
+        "value": 3160442622465.08,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 46103.0841,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 68551653.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 82.9805,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 7.4,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 88.6538,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 91.3,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "japan",
+    "iso3": "JPN",
+    "iso2": "JP",
+    "name": "Japan",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "capital": "Tokyo",
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf5",
+    "summary_metrics": {
+      "gdp": {
+        "value": 4190008188358.57,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 33797.1014,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 123975371.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 84.0363,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 2.5,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 85.5415,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 89.9,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "australia",
+    "iso3": "AUS",
+    "iso2": "AU",
+    "name": "Australia",
+    "region": "East Asia & Pacific",
+    "income_group": "High income",
+    "capital": "Canberra",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddfa",
+    "summary_metrics": {
+      "gdp": {
+        "value": 1757022451652.83,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 64609.9865,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 27194286.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 83.0512,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 3.942,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 96.1314,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 88.9,
+    "tracked_indicators_count": 30
+  },
+  {
+    "id": "china",
+    "iso3": "CHN",
+    "iso2": "CN",
+    "name": "China",
+    "region": "East Asia & Pacific",
+    "income_group": "Upper middle income",
+    "capital": "Beijing",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf3",
+    "summary_metrics": {
+      "gdp": {
+        "value": 18729668435848.0,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "gdp_per_capita": {
+        "value": 13293.1162,
+        "year": 2024,
+        "unit": "current US$",
+        "format": "currency"
+      },
+      "population": {
+        "value": 1408975000.0,
+        "year": 2024,
+        "unit": "people",
+        "format": "number"
+      },
+      "life_expectancy": {
+        "value": 78.017,
+        "year": 2024,
+        "unit": "years",
+        "format": "decimal"
+      },
+      "unemployment": {
+        "value": 4.59,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      },
+      "internet_users": {
+        "value": 92.0,
+        "year": 2024,
+        "unit": "%",
+        "format": "percentage"
+      }
+    },
+    "coverage_percent": 88.7,
+    "tracked_indicators_count": 30
+  }
+]

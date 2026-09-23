@@ -1,0 +1,55 @@
+{
+  "platform_name": "Global Development Pulse",
+  "tagline": "Automated global development data, refreshed continuously.",
+  "description": "Continuous ETL pipeline collecting, validating, versioning, and visualising 30 public development indicators across 15 nations directly from the World Bank Open Data API.",
+  "tracked_countries_count": 15,
+  "tracked_indicators_count": 30,
+  "total_records": 11250,
+  "valid_observations": 10263,
+  "data_freshness": "2026-09-23T19:59:26Z",
+  "last_updated_human": "2026-09-23 19:59 UTC",
+  "pipeline_status": "Healthy",
+  "date_range": {
+    "start": 2000,
+    "end": 2024
+  },
+  "category_counts": {
+    "Digital": 3,
+    "Economic": 7,
+    "Education": 4,
+    "Employment": 3,
+    "Environment": 7,
+    "Population": 6
+  },
+  "highlights": [
+    {
+      "metric": "Highest Tracked GDP",
+      "country": "United States",
+      "value": 29298013000000.0,
+      "unit": "current US$",
+      "format": "currency"
+    },
+    {
+      "metric": "Highest Internet Adoption",
+      "country": "United Arab Emirates",
+      "value": 100.0,
+      "unit": "% of population",
+      "format": "percentage"
+    },
+    {
+      "metric": "Highest Life Expectancy",
+      "country": "Japan",
+      "value": 84.0363,
+      "unit": "years",
+      "format": "decimal"
+    }
+  ],
+  "featured_indicators": [
+    "gdp_current_usd",
+    "gdp_per_capita_usd",
+    "population_total",
+    "internet_users_percent",
+    "renewable_electricity_output",
+    "life_expectancy_birth"
+  ]
+}

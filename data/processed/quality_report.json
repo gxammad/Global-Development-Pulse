@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "records": 11250,
+  "valid_observations": 10263,
+  "missing_values": 987,
+  "missing_percentage": 8.77,
+  "duplicates": 0,
+  "validation_errors": 0,
+  "domain_warnings": 0,
+  "last_updated": "2026-09-23T19:58:58.713281+00:00",
+  "source": "World Bank Open Data API",
+  "error_samples": [],
+  "duplicate_samples": [],
+  "warning_samples": []
+}

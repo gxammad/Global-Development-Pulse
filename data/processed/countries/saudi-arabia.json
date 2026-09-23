@@ -1,0 +1,3652 @@
+{
+  "country": {
+    "id": "saudi-arabia",
+    "iso3": "SAU",
+    "iso2": "SA",
+    "name": "Saudi Arabia",
+    "region": "Middle East & North Africa",
+    "income_group": "High income",
+    "capital": "Riyadh",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde6"
+  },
+  "indicators": {
+    "gdp_current_usd": {
+      "metadata": {
+        "id": "gdp_current_usd",
+        "code": "NY.GDP.MKTP.CD",
+        "name": "GDP (Current US$)",
+        "short_description": "Gross domestic product at purchaser's prices in current US dollars.",
+        "category": "Economic",
+        "unit": "current US$",
+        "source": "World Bank national accounts data, and OECD National Accounts data files.",
+        "format": "currency",
+        "chart_type": "area",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 189514933333.333
+        },
+        {
+          "year": 2001,
+          "value": 184137600000.0
+        },
+        {
+          "year": 2002,
+          "value": 189605866666.667
+        },
+        {
+          "year": 2003,
+          "value": 215807733333.333
+        },
+        {
+          "year": 2004,
+          "value": 258742133333.333
+        },
+        {
+          "year": 2005,
+          "value": 328459608764.111
+        },
+        {
+          "year": 2006,
+          "value": 376900133511.348
+        },
+        {
+          "year": 2007,
+          "value": 415964509673.115
+        },
+        {
+          "year": 2008,
+          "value": 519796800000.0
+        },
+        {
+          "year": 2009,
+          "value": 429097866666.667
+        },
+        {
+          "year": 2010,
+          "value": 528207466666.667
+        },
+        {
+          "year": 2011,
+          "value": 680660800000.0
+        },
+        {
+          "year": 2012,
+          "value": 751921333333.333
+        },
+        {
+          "year": 2013,
+          "value": 769755733333.333
+        },
+        {
+          "year": 2014,
+          "value": 787153066666.667
+        },
+        {
+          "year": 2015,
+          "value": 693414400000.0
+        },
+        {
+          "year": 2016,
+          "value": 689279466666.667
+        },
+        {
+          "year": 2017,
+          "value": 741266133333.333
+        },
+        {
+          "year": 2018,
+          "value": 886564800000.0
+        },
+        {
+          "year": 2019,
+          "value": 888890133333.333
+        },
+        {
+          "year": 2020,
+          "value": 767951200000.0
+        },
+        {
+          "year": 2021,
+          "value": 982661066666.667
+        },
+        {
+          "year": 2022,
+          "value": 1239075200000.0
+        },
+        {
+          "year": 2023,
+          "value": 1218584800000.0
+        },
+        {
+          "year": 2024,
+          "value": 1254140800000.0
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1254140800000.0,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "gdp_per_capita_usd": {
+      "metadata": {
+        "id": "gdp_per_capita_usd",
+        "code": "NY.GDP.PCAP.CD",
+        "name": "GDP per Capita (Current US$)",
+        "short_description": "Gross domestic product divided by midyear population in current US dollars.",
+        "category": "Economic",
+        "unit": "current US$",
+        "source": "World Bank national accounts data, and OECD National Accounts data files.",
+        "format": "currency",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 11714.5624
+        },
+        {
+          "year": 2001,
+          "value": 10805.3113
+        },
+        {
+          "year": 2002,
+          "value": 10586.0543
+        },
+        {
+          "year": 2003,
+          "value": 11487.2204
+        },
+        {
+          "year": 2004,
+          "value": 13154.4979
+        },
+        {
+          "year": 2005,
+          "value": 15975.7474
+        },
+        {
+          "year": 2006,
+          "value": 17563.6145
+        },
+        {
+          "year": 2007,
+          "value": 18596.1503
+        },
+        {
+          "year": 2008,
+          "value": 22320.4889
+        },
+        {
+          "year": 2009,
+          "value": 17718.3912
+        },
+        {
+          "year": 2010,
+          "value": 22028.3901
+        },
+        {
+          "year": 2011,
+          "value": 27126.7499
+        },
+        {
+          "year": 2012,
+          "value": 28733.4376
+        },
+        {
+          "year": 2013,
+          "value": 27865.4656
+        },
+        {
+          "year": 2014,
+          "value": 27805.485
+        },
+        {
+          "year": 2015,
+          "value": 23256.155
+        },
+        {
+          "year": 2016,
+          "value": 22267.7217
+        },
+        {
+          "year": 2017,
+          "value": 23929.2907
+        },
+        {
+          "year": 2018,
+          "value": 29360.0659
+        },
+        {
+          "year": 2019,
+          "value": 29566.7934
+        },
+        {
+          "year": 2020,
+          "value": 24338.8307
+        },
+        {
+          "year": 2021,
+          "value": 31920.7654
+        },
+        {
+          "year": 2022,
+          "value": 38510.2276
+        },
+        {
+          "year": 2023,
+          "value": 36156.8563
+        },
+        {
+          "year": 2024,
+          "value": 35527.7862
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 35527.7862,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "gdp_growth_annual": {
+      "metadata": {
+        "id": "gdp_growth_annual",
+        "code": "NY.GDP.MKTP.KD.ZG",
+        "name": "GDP Growth (Annual %)",
+        "short_description": "Annual percentage growth rate of GDP at market prices based on constant local currency.",
+        "category": "Economic",
+        "unit": "%",
+        "source": "World Bank national accounts data, and OECD National Accounts data files.",
+        "format": "percentage",
+        "chart_type": "bar",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.7181
+        },
+        {
+          "year": 2001,
+          "value": 0.3446
+        },
+        {
+          "year": 2002,
+          "value": -0.6884
+        },
+        {
+          "year": 2003,
+          "value": 8.7687
+        },
+        {
+          "year": 2004,
+          "value": 8.631
+        },
+        {
+          "year": 2005,
+          "value": 5.9449
+        },
+        {
+          "year": 2006,
+          "value": 3.3135
+        },
+        {
+          "year": 2007,
+          "value": 2.2137
+        },
+        {
+          "year": 2008,
+          "value": 6.238
+        },
+        {
+          "year": 2009,
+          "value": -1.0667
+        },
+        {
+          "year": 2010,
+          "value": 5.0395
+        },
+        {
+          "year": 2011,
+          "value": 11.7588
+        },
+        {
+          "year": 2012,
+          "value": 5.7616
+        },
+        {
+          "year": 2013,
+          "value": 2.9456
+        },
+        {
+          "year": 2014,
+          "value": 4.0247
+        },
+        {
+          "year": 2015,
+          "value": 4.6551
+        },
+        {
+          "year": 2016,
+          "value": 1.704
+        },
+        {
+          "year": 2017,
+          "value": 1.1821
+        },
+        {
+          "year": 2018,
+          "value": 3.227
+        },
+        {
+          "year": 2019,
+          "value": 1.6516
+        },
+        {
+          "year": 2020,
+          "value": -3.8048
+        },
+        {
+          "year": 2021,
+          "value": 6.5196
+        },
+        {
+          "year": 2022,
+          "value": 12.0006
+        },
+        {
+          "year": 2023,
+          "value": 0.5426
+        },
+        {
+          "year": 2024,
+          "value": 2.6489
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 2.6489,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "inflation_consumer_prices": {
+      "metadata": {
+        "id": "inflation_consumer_prices",
+        "code": "FP.CPI.TOTL.ZG",
+        "name": "Inflation, Consumer Prices (Annual %)",
+        "short_description": "Annual percentage change in the cost to the average consumer of acquiring a basket of goods and services.",
+        "category": "Economic",
+        "unit": "%",
+        "source": "International Monetary Fund, International Financial Statistics and data files.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": -1.125
+        },
+        {
+          "year": 2001,
+          "value": -1.1209
+        },
+        {
+          "year": 2002,
+          "value": 0.2472
+        },
+        {
+          "year": 2003,
+          "value": 0.6122
+        },
+        {
+          "year": 2004,
+          "value": 0.5155
+        },
+        {
+          "year": 2005,
+          "value": 0.4792
+        },
+        {
+          "year": 2006,
+          "value": 2.209
+        },
+        {
+          "year": 2007,
+          "value": 4.1678
+        },
+        {
+          "year": 2008,
+          "value": 9.8702
+        },
+        {
+          "year": 2009,
+          "value": 5.0572
+        },
+        {
+          "year": 2010,
+          "value": 5.3394
+        },
+        {
+          "year": 2011,
+          "value": 5.8262
+        },
+        {
+          "year": 2012,
+          "value": 2.8663
+        },
+        {
+          "year": 2013,
+          "value": 3.511
+        },
+        {
+          "year": 2014,
+          "value": 2.2419
+        },
+        {
+          "year": 2015,
+          "value": 1.2227
+        },
+        {
+          "year": 2016,
+          "value": 2.0535
+        },
+        {
+          "year": 2017,
+          "value": -0.8348
+        },
+        {
+          "year": 2018,
+          "value": 2.4659
+        },
+        {
+          "year": 2019,
+          "value": -1.193
+        },
+        {
+          "year": 2020,
+          "value": 3.3723
+        },
+        {
+          "year": 2021,
+          "value": 3.0633
+        },
+        {
+          "year": 2022,
+          "value": 2.4741
+        },
+        {
+          "year": 2023,
+          "value": 2.3271
+        },
+        {
+          "year": 2024,
+          "value": 1.6879
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1.6879,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "exports_percent_gdp": {
+      "metadata": {
+        "id": "exports_percent_gdp",
+        "code": "NE.EXP.GNFS.ZS",
+        "name": "Exports of Goods and Services (% of GDP)",
+        "short_description": "Value of all goods and other market services provided to the rest of the world as % of GDP.",
+        "category": "Economic",
+        "unit": "% of GDP",
+        "source": "World Bank national accounts data, and OECD National Accounts data files.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 43.4053
+        },
+        {
+          "year": 2001,
+          "value": 39.6337
+        },
+        {
+          "year": 2002,
+          "value": 40.9488
+        },
+        {
+          "year": 2003,
+          "value": 45.8541
+        },
+        {
+          "year": 2004,
+          "value": 50.9853
+        },
+        {
+          "year": 2005,
+          "value": 57.0507
+        },
+        {
+          "year": 2006,
+          "value": 59.8319
+        },
+        {
+          "year": 2007,
+          "value": 59.9374
+        },
+        {
+          "year": 2008,
+          "value": 62.1115
+        },
+        {
+          "year": 2009,
+          "value": 47.0886
+        },
+        {
+          "year": 2010,
+          "value": 49.5697
+        },
+        {
+          "year": 2011,
+          "value": 55.2733
+        },
+        {
+          "year": 2012,
+          "value": 53.1198
+        },
+        {
+          "year": 2013,
+          "value": 50.3725
+        },
+        {
+          "year": 2014,
+          "value": 45.0958
+        },
+        {
+          "year": 2015,
+          "value": 31.4401
+        },
+        {
+          "year": 2016,
+          "value": 29.1431
+        },
+        {
+          "year": 2017,
+          "value": 32.3625
+        },
+        {
+          "year": 2018,
+          "value": 35.521
+        },
+        {
+          "year": 2019,
+          "value": 32.1592
+        },
+        {
+          "year": 2020,
+          "value": 23.8098
+        },
+        {
+          "year": 2021,
+          "value": 29.1557
+        },
+        {
+          "year": 2022,
+          "value": 35.985
+        },
+        {
+          "year": 2023,
+          "value": 30.756
+        },
+        {
+          "year": 2024,
+          "value": 29.388
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 29.388,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "imports_percent_gdp": {
+      "metadata": {
+        "id": "imports_percent_gdp",
+        "code": "NE.IMP.GNFS.ZS",
+        "name": "Imports of Goods and Services (% of GDP)",
+        "short_description": "Value of all goods and other market services received from the rest of the world as % of GDP.",
+        "category": "Economic",
+        "unit": "% of GDP",
+        "source": "World Bank national accounts data, and OECD National Accounts data files.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 24.7612
+        },
+        {
+          "year": 2001,
+          "value": 23.9269
+        },
+        {
+          "year": 2002,
+          "value": 23.644
+        },
+        {
+          "year": 2003,
+          "value": 23.977
+        },
+        {
+          "year": 2004,
+          "value": 24.0975
+        },
+        {
+          "year": 2005,
+          "value": 24.9033
+        },
+        {
+          "year": 2006,
+          "value": 30.1127
+        },
+        {
+          "year": 2007,
+          "value": 34.9259
+        },
+        {
+          "year": 2008,
+          "value": 33.9911
+        },
+        {
+          "year": 2009,
+          "value": 37.7697
+        },
+        {
+          "year": 2010,
+          "value": 32.98
+        },
+        {
+          "year": 2011,
+          "value": 29.0861
+        },
+        {
+          "year": 2012,
+          "value": 28.6208
+        },
+        {
+          "year": 2013,
+          "value": 29.879
+        },
+        {
+          "year": 2014,
+          "value": 32.9043
+        },
+        {
+          "year": 2015,
+          "value": 35.6651
+        },
+        {
+          "year": 2016,
+          "value": 28.7786
+        },
+        {
+          "year": 2017,
+          "value": 27.1694
+        },
+        {
+          "year": 2018,
+          "value": 23.5819
+        },
+        {
+          "year": 2019,
+          "value": 24.6346
+        },
+        {
+          "year": 2020,
+          "value": 23.7233
+        },
+        {
+          "year": 2021,
+          "value": 21.7283
+        },
+        {
+          "year": 2022,
+          "value": 20.8392
+        },
+        {
+          "year": 2023,
+          "value": 25.0415
+        },
+        {
+          "year": 2024,
+          "value": 27.0169
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 27.0169,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "fdi_net_inflows_percent_gdp": {
+      "metadata": {
+        "id": "fdi_net_inflows_percent_gdp",
+        "code": "BX.KLT.DINV.WD.GD.ZS",
+        "name": "Foreign Direct Investment, Net Inflows (% of GDP)",
+        "short_description": "Net inflows of investment to acquire a lasting management interest in an enterprise.",
+        "category": "Economic",
+        "unit": "% of GDP",
+        "source": "International Monetary Fund, Balance of Payments database.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": -0.9926
+        },
+        {
+          "year": 2001,
+          "value": 0.0107
+        },
+        {
+          "year": 2002,
+          "value": -0.3239
+        },
+        {
+          "year": 2003,
+          "value": -0.2718
+        },
+        {
+          "year": 2004,
+          "value": -0.1292
+        },
+        {
+          "year": 2005,
+          "value": 1.3352
+        },
+        {
+          "year": 2006,
+          "value": 1.5855
+        },
+        {
+          "year": 2007,
+          "value": 1.4846
+        },
+        {
+          "year": 2008,
+          "value": 1.0593
+        },
+        {
+          "year": 2009,
+          "value": 0.1017
+        },
+        {
+          "year": 2010,
+          "value": 0.9237
+        },
+        {
+          "year": 2011,
+          "value": 0.6881
+        },
+        {
+          "year": 2012,
+          "value": 0.6696
+        },
+        {
+          "year": 2013,
+          "value": 0.438
+        },
+        {
+          "year": 2014,
+          "value": 0.1917
+        },
+        {
+          "year": 2015,
+          "value": 0.5726
+        },
+        {
+          "year": 2016,
+          "value": 3.1852
+        },
+        {
+          "year": 2017,
+          "value": 0.1368
+        },
+        {
+          "year": 2018,
+          "value": 1.3695
+        },
+        {
+          "year": 2019,
+          "value": 0.3464
+        },
+        {
+          "year": 2020,
+          "value": 0.2111
+        },
+        {
+          "year": 2021,
+          "value": 2.8851
+        },
+        {
+          "year": 2022,
+          "value": 2.1556
+        },
+        {
+          "year": 2023,
+          "value": 1.8713
+        },
+        {
+          "year": 2024,
+          "value": 1.7014
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1.7014,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "population_total": {
+      "metadata": {
+        "id": "population_total",
+        "code": "SP.POP.TOTL",
+        "name": "Total Population",
+        "short_description": "Total population counts all residents regardless of legal status or citizenship.",
+        "category": "Population",
+        "unit": "people",
+        "source": "United Nations Population Division. World Population Prospects.",
+        "format": "number",
+        "chart_type": "area",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 16177722.0
+        },
+        {
+          "year": 2001,
+          "value": 17041397.0
+        },
+        {
+          "year": 2002,
+          "value": 17910910.0
+        },
+        {
+          "year": 2003,
+          "value": 18786767.0
+        },
+        {
+          "year": 2004,
+          "value": 19669480.0
+        },
+        {
+          "year": 2005,
+          "value": 20559890.0
+        },
+        {
+          "year": 2006,
+          "value": 21459144.0
+        },
+        {
+          "year": 2007,
+          "value": 22368313.0
+        },
+        {
+          "year": 2008,
+          "value": 23287877.0
+        },
+        {
+          "year": 2009,
+          "value": 24217654.0
+        },
+        {
+          "year": 2010,
+          "value": 23978487.0
+        },
+        {
+          "year": 2011,
+          "value": 25091867.0
+        },
+        {
+          "year": 2012,
+          "value": 26168861.0
+        },
+        {
+          "year": 2013,
+          "value": 27624004.0
+        },
+        {
+          "year": 2014,
+          "value": 28309273.0
+        },
+        {
+          "year": 2015,
+          "value": 29816382.0
+        },
+        {
+          "year": 2016,
+          "value": 30954198.0
+        },
+        {
+          "year": 2017,
+          "value": 30977355.0
+        },
+        {
+          "year": 2018,
+          "value": 30196281.0
+        },
+        {
+          "year": 2019,
+          "value": 30063799.0
+        },
+        {
+          "year": 2020,
+          "value": 31552510.0
+        },
+        {
+          "year": 2021,
+          "value": 30784383.0
+        },
+        {
+          "year": 2022,
+          "value": 32175224.0
+        },
+        {
+          "year": 2023,
+          "value": 33702731.0
+        },
+        {
+          "year": 2024,
+          "value": 35300280.0
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 35300280.0,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "population_growth_annual": {
+      "metadata": {
+        "id": "population_growth_annual",
+        "code": "SP.POP.GROW",
+        "name": "Population Growth (Annual %)",
+        "short_description": "Exponential annual rate of population growth from midyear t-1 to midyear t.",
+        "category": "Population",
+        "unit": "%",
+        "source": "United Nations Population Division. World Population Prospects.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.4598
+        },
+        {
+          "year": 2001,
+          "value": 5.201
+        },
+        {
+          "year": 2002,
+          "value": 4.9765
+        },
+        {
+          "year": 2003,
+          "value": 4.7743
+        },
+        {
+          "year": 2004,
+          "value": 4.5915
+        },
+        {
+          "year": 2005,
+          "value": 4.4274
+        },
+        {
+          "year": 2006,
+          "value": 4.2809
+        },
+        {
+          "year": 2007,
+          "value": 4.1495
+        },
+        {
+          "year": 2008,
+          "value": 4.0288
+        },
+        {
+          "year": 2009,
+          "value": 3.9149
+        },
+        {
+          "year": 2010,
+          "value": -0.9925
+        },
+        {
+          "year": 2011,
+          "value": 4.5387
+        },
+        {
+          "year": 2012,
+          "value": 4.2026
+        },
+        {
+          "year": 2013,
+          "value": 5.4115
+        },
+        {
+          "year": 2014,
+          "value": 2.4504
+        },
+        {
+          "year": 2015,
+          "value": 5.1869
+        },
+        {
+          "year": 2016,
+          "value": 3.7451
+        },
+        {
+          "year": 2017,
+          "value": 0.0748
+        },
+        {
+          "year": 2018,
+          "value": -2.5538
+        },
+        {
+          "year": 2019,
+          "value": -0.4397
+        },
+        {
+          "year": 2020,
+          "value": 4.8331
+        },
+        {
+          "year": 2021,
+          "value": -2.4646
+        },
+        {
+          "year": 2022,
+          "value": 4.4189
+        },
+        {
+          "year": 2023,
+          "value": 4.6382
+        },
+        {
+          "year": 2024,
+          "value": 4.6312
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 4.6312,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "urban_population_percent": {
+      "metadata": {
+        "id": "urban_population_percent",
+        "code": "SP.URB.TOTL.IN.ZS",
+        "name": "Urban Population (% of Total)",
+        "short_description": "Urban population refers to people living in urban areas as defined by national statistical offices.",
+        "category": "Population",
+        "unit": "%",
+        "source": "United Nations Population Division. World Urbanization Prospects.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 79.9705
+        },
+        {
+          "year": 2001,
+          "value": 80.1552
+        },
+        {
+          "year": 2002,
+          "value": 80.3438
+        },
+        {
+          "year": 2003,
+          "value": 80.5414
+        },
+        {
+          "year": 2004,
+          "value": 80.7542
+        },
+        {
+          "year": 2005,
+          "value": 80.9776
+        },
+        {
+          "year": 2006,
+          "value": 81.2009
+        },
+        {
+          "year": 2007,
+          "value": 81.423
+        },
+        {
+          "year": 2008,
+          "value": 81.6441
+        },
+        {
+          "year": 2009,
+          "value": 81.8644
+        },
+        {
+          "year": 2010,
+          "value": 82.0792
+        },
+        {
+          "year": 2011,
+          "value": 82.2544
+        },
+        {
+          "year": 2012,
+          "value": 82.4312
+        },
+        {
+          "year": 2013,
+          "value": 82.6072
+        },
+        {
+          "year": 2014,
+          "value": 82.7823
+        },
+        {
+          "year": 2015,
+          "value": 82.9563
+        },
+        {
+          "year": 2016,
+          "value": 83.1291
+        },
+        {
+          "year": 2017,
+          "value": 83.3007
+        },
+        {
+          "year": 2018,
+          "value": 83.4708
+        },
+        {
+          "year": 2019,
+          "value": 83.6395
+        },
+        {
+          "year": 2020,
+          "value": 83.8064
+        },
+        {
+          "year": 2021,
+          "value": 83.9716
+        },
+        {
+          "year": 2022,
+          "value": 84.1349
+        },
+        {
+          "year": 2023,
+          "value": 84.2962
+        },
+        {
+          "year": 2024,
+          "value": 84.4554
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 84.4554,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "life_expectancy_birth": {
+      "metadata": {
+        "id": "life_expectancy_birth",
+        "code": "SP.DYN.LE00.IN",
+        "name": "Life Expectancy at Birth (Years)",
+        "short_description": "Number of years a newborn infant would live if prevailing patterns of mortality were to stay the same.",
+        "category": "Population",
+        "unit": "years",
+        "source": "United Nations Population Division and World Bank Group.",
+        "format": "decimal",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 72.607
+        },
+        {
+          "year": 2001,
+          "value": 72.951
+        },
+        {
+          "year": 2002,
+          "value": 73.296
+        },
+        {
+          "year": 2003,
+          "value": 73.657
+        },
+        {
+          "year": 2004,
+          "value": 74.027
+        },
+        {
+          "year": 2005,
+          "value": 74.4
+        },
+        {
+          "year": 2006,
+          "value": 74.762
+        },
+        {
+          "year": 2007,
+          "value": 75.066
+        },
+        {
+          "year": 2008,
+          "value": 75.301
+        },
+        {
+          "year": 2009,
+          "value": 75.447
+        },
+        {
+          "year": 2010,
+          "value": 75.616
+        },
+        {
+          "year": 2011,
+          "value": 75.808
+        },
+        {
+          "year": 2012,
+          "value": 76.09
+        },
+        {
+          "year": 2013,
+          "value": 76.517
+        },
+        {
+          "year": 2014,
+          "value": 77.116
+        },
+        {
+          "year": 2015,
+          "value": 77.776
+        },
+        {
+          "year": 2016,
+          "value": 78.354
+        },
+        {
+          "year": 2017,
+          "value": 78.721
+        },
+        {
+          "year": 2018,
+          "value": 78.75
+        },
+        {
+          "year": 2019,
+          "value": 78.313
+        },
+        {
+          "year": 2020,
+          "value": 77.596
+        },
+        {
+          "year": 2021,
+          "value": 77.089
+        },
+        {
+          "year": 2022,
+          "value": 77.31
+        },
+        {
+          "year": 2023,
+          "value": 78.732
+        },
+        {
+          "year": 2024,
+          "value": 78.982
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 78.982,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "birth_rate_crude": {
+      "metadata": {
+        "id": "birth_rate_crude",
+        "code": "SP.DYN.CBRT.IN",
+        "name": "Birth Rate, Crude (per 1,000 People)",
+        "short_description": "Crude birth rate indicates the number of live births occurring during the year per 1,000 midyear population.",
+        "category": "Population",
+        "unit": "per 1,000 people",
+        "source": "United Nations Population Division. World Population Prospects.",
+        "format": "decimal",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 27.49
+        },
+        {
+          "year": 2001,
+          "value": 25.528
+        },
+        {
+          "year": 2002,
+          "value": 23.767
+        },
+        {
+          "year": 2003,
+          "value": 22.302
+        },
+        {
+          "year": 2004,
+          "value": 21.274
+        },
+        {
+          "year": 2005,
+          "value": 21.062
+        },
+        {
+          "year": 2006,
+          "value": 21.35
+        },
+        {
+          "year": 2007,
+          "value": 21.73
+        },
+        {
+          "year": 2008,
+          "value": 21.314
+        },
+        {
+          "year": 2009,
+          "value": 20.802
+        },
+        {
+          "year": 2010,
+          "value": 20.127
+        },
+        {
+          "year": 2011,
+          "value": 20.324
+        },
+        {
+          "year": 2012,
+          "value": 20.387
+        },
+        {
+          "year": 2013,
+          "value": 19.712
+        },
+        {
+          "year": 2014,
+          "value": 19.822
+        },
+        {
+          "year": 2015,
+          "value": 19.405
+        },
+        {
+          "year": 2016,
+          "value": 19.553
+        },
+        {
+          "year": 2017,
+          "value": 19.824
+        },
+        {
+          "year": 2018,
+          "value": 19.739
+        },
+        {
+          "year": 2019,
+          "value": 18.075
+        },
+        {
+          "year": 2020,
+          "value": 16.628
+        },
+        {
+          "year": 2021,
+          "value": 15.902
+        },
+        {
+          "year": 2022,
+          "value": 15.217
+        },
+        {
+          "year": 2023,
+          "value": 16.415
+        },
+        {
+          "year": 2024,
+          "value": 16.495
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 16.495,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "death_rate_crude": {
+      "metadata": {
+        "id": "death_rate_crude",
+        "code": "SP.DYN.CDRT.IN",
+        "name": "Death Rate, Crude (per 1,000 People)",
+        "short_description": "Crude death rate indicates the number of deaths occurring during the year per 1,000 midyear population.",
+        "category": "Population",
+        "unit": "per 1,000 people",
+        "source": "United Nations Population Division. World Population Prospects.",
+        "format": "decimal",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 3.234
+        },
+        {
+          "year": 2001,
+          "value": 3.103
+        },
+        {
+          "year": 2002,
+          "value": 2.992
+        },
+        {
+          "year": 2003,
+          "value": 2.899
+        },
+        {
+          "year": 2004,
+          "value": 2.827
+        },
+        {
+          "year": 2005,
+          "value": 2.777
+        },
+        {
+          "year": 2006,
+          "value": 2.741
+        },
+        {
+          "year": 2007,
+          "value": 2.721
+        },
+        {
+          "year": 2008,
+          "value": 2.701
+        },
+        {
+          "year": 2009,
+          "value": 2.693
+        },
+        {
+          "year": 2010,
+          "value": 2.668
+        },
+        {
+          "year": 2011,
+          "value": 2.642
+        },
+        {
+          "year": 2012,
+          "value": 2.593
+        },
+        {
+          "year": 2013,
+          "value": 2.506
+        },
+        {
+          "year": 2014,
+          "value": 2.392
+        },
+        {
+          "year": 2015,
+          "value": 2.266
+        },
+        {
+          "year": 2016,
+          "value": 2.178
+        },
+        {
+          "year": 2017,
+          "value": 2.174
+        },
+        {
+          "year": 2018,
+          "value": 2.228
+        },
+        {
+          "year": 2019,
+          "value": 2.295
+        },
+        {
+          "year": 2020,
+          "value": 2.46
+        },
+        {
+          "year": 2021,
+          "value": 2.615
+        },
+        {
+          "year": 2022,
+          "value": 2.57
+        },
+        {
+          "year": 2023,
+          "value": 2.34
+        },
+        {
+          "year": 2024,
+          "value": 2.337
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 2.337,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "unemployment_rate": {
+      "metadata": {
+        "id": "unemployment_rate",
+        "code": "SL.UEM.TOTL.ZS",
+        "name": "Unemployment Rate (% of Labor Force)",
+        "short_description": "Share of the labor force that is without work but available for and seeking employment.",
+        "category": "Employment",
+        "unit": "%",
+        "source": "International Labour Organization, ILOSTAT database.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.57
+        },
+        {
+          "year": 2001,
+          "value": 4.618
+        },
+        {
+          "year": 2002,
+          "value": 5.265
+        },
+        {
+          "year": 2003,
+          "value": 5.563
+        },
+        {
+          "year": 2004,
+          "value": 5.822
+        },
+        {
+          "year": 2005,
+          "value": 6.051
+        },
+        {
+          "year": 2006,
+          "value": 6.254
+        },
+        {
+          "year": 2007,
+          "value": 5.734
+        },
+        {
+          "year": 2008,
+          "value": 5.085
+        },
+        {
+          "year": 2009,
+          "value": 5.377
+        },
+        {
+          "year": 2010,
+          "value": 5.55
+        },
+        {
+          "year": 2011,
+          "value": 5.77
+        },
+        {
+          "year": 2012,
+          "value": 5.622
+        },
+        {
+          "year": 2013,
+          "value": 5.6
+        },
+        {
+          "year": 2014,
+          "value": 5.877
+        },
+        {
+          "year": 2015,
+          "value": 5.6
+        },
+        {
+          "year": 2016,
+          "value": 5.6
+        },
+        {
+          "year": 2017,
+          "value": 5.89
+        },
+        {
+          "year": 2018,
+          "value": 6.029
+        },
+        {
+          "year": 2019,
+          "value": 5.636
+        },
+        {
+          "year": 2020,
+          "value": 7.66
+        },
+        {
+          "year": 2021,
+          "value": 6.621
+        },
+        {
+          "year": 2022,
+          "value": 5.589
+        },
+        {
+          "year": 2023,
+          "value": 4.008
+        },
+        {
+          "year": 2024,
+          "value": 3.518
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 3.518,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "labor_force_participation": {
+      "metadata": {
+        "id": "labor_force_participation",
+        "code": "SL.TLF.CACT.ZS",
+        "name": "Labor Force Participation Rate (% of Ages 15+)",
+        "short_description": "Proportion of the population ages 15 and older that engages actively in the labor market.",
+        "category": "Employment",
+        "unit": "%",
+        "source": "International Labour Organization, ILOSTAT database.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 48.995
+        },
+        {
+          "year": 2001,
+          "value": 48.37
+        },
+        {
+          "year": 2002,
+          "value": 47.976
+        },
+        {
+          "year": 2003,
+          "value": 47.891
+        },
+        {
+          "year": 2004,
+          "value": 47.913
+        },
+        {
+          "year": 2005,
+          "value": 48.06
+        },
+        {
+          "year": 2006,
+          "value": 48.347
+        },
+        {
+          "year": 2007,
+          "value": 48.649
+        },
+        {
+          "year": 2008,
+          "value": 49.135
+        },
+        {
+          "year": 2009,
+          "value": 49.582
+        },
+        {
+          "year": 2010,
+          "value": 51.426
+        },
+        {
+          "year": 2011,
+          "value": 53.37
+        },
+        {
+          "year": 2012,
+          "value": 55.395
+        },
+        {
+          "year": 2013,
+          "value": 57.152
+        },
+        {
+          "year": 2014,
+          "value": 58.409
+        },
+        {
+          "year": 2015,
+          "value": 59.749
+        },
+        {
+          "year": 2016,
+          "value": 60.685
+        },
+        {
+          "year": 2017,
+          "value": 58.99
+        },
+        {
+          "year": 2018,
+          "value": 59.418
+        },
+        {
+          "year": 2019,
+          "value": 61.203
+        },
+        {
+          "year": 2020,
+          "value": 62.414
+        },
+        {
+          "year": 2021,
+          "value": 63.511
+        },
+        {
+          "year": 2022,
+          "value": 63.801
+        },
+        {
+          "year": 2023,
+          "value": 65.336
+        },
+        {
+          "year": 2024,
+          "value": 65.201
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 65.201,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "employment_to_population_ratio": {
+      "metadata": {
+        "id": "employment_to_population_ratio",
+        "code": "SL.EMP.TOTL.SP.ZS",
+        "name": "Employment to Population Ratio (% Ages 15+)",
+        "short_description": "Proportion of a country's population aged 15 and older that is employed.",
+        "category": "Employment",
+        "unit": "%",
+        "source": "International Labour Organization, ILOSTAT database.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 46.756
+        },
+        {
+          "year": 2001,
+          "value": 46.137
+        },
+        {
+          "year": 2002,
+          "value": 45.45
+        },
+        {
+          "year": 2003,
+          "value": 45.227
+        },
+        {
+          "year": 2004,
+          "value": 45.123
+        },
+        {
+          "year": 2005,
+          "value": 45.151
+        },
+        {
+          "year": 2006,
+          "value": 45.323
+        },
+        {
+          "year": 2007,
+          "value": 45.859
+        },
+        {
+          "year": 2008,
+          "value": 46.636
+        },
+        {
+          "year": 2009,
+          "value": 46.916
+        },
+        {
+          "year": 2010,
+          "value": 48.572
+        },
+        {
+          "year": 2011,
+          "value": 50.291
+        },
+        {
+          "year": 2012,
+          "value": 52.28
+        },
+        {
+          "year": 2013,
+          "value": 53.951
+        },
+        {
+          "year": 2014,
+          "value": 54.976
+        },
+        {
+          "year": 2015,
+          "value": 56.403
+        },
+        {
+          "year": 2016,
+          "value": 57.286
+        },
+        {
+          "year": 2017,
+          "value": 55.515
+        },
+        {
+          "year": 2018,
+          "value": 55.835
+        },
+        {
+          "year": 2019,
+          "value": 57.753
+        },
+        {
+          "year": 2020,
+          "value": 57.633
+        },
+        {
+          "year": 2021,
+          "value": 59.306
+        },
+        {
+          "year": 2022,
+          "value": 60.235
+        },
+        {
+          "year": 2023,
+          "value": 62.718
+        },
+        {
+          "year": 2024,
+          "value": 62.907
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 62.907,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "school_enrollment_primary": {
+      "metadata": {
+        "id": "school_enrollment_primary",
+        "code": "SE.PRM.ENRR",
+        "name": "School Enrollment, Primary (% Gross)",
+        "short_description": "Total enrollment in primary education, regardless of age, expressed as percentage of the official primary education age population.",
+        "category": "Education",
+        "unit": "% gross",
+        "source": "UNESCO Institute for Statistics.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": null
+        },
+        {
+          "year": 2001,
+          "value": null
+        },
+        {
+          "year": 2002,
+          "value": null
+        },
+        {
+          "year": 2003,
+          "value": null
+        },
+        {
+          "year": 2004,
+          "value": null
+        },
+        {
+          "year": 2005,
+          "value": 115.5085
+        },
+        {
+          "year": 2006,
+          "value": null
+        },
+        {
+          "year": 2007,
+          "value": 120.8812
+        },
+        {
+          "year": 2008,
+          "value": 123.4973
+        },
+        {
+          "year": 2009,
+          "value": 125.7635
+        },
+        {
+          "year": 2010,
+          "value": 128.0861
+        },
+        {
+          "year": 2011,
+          "value": 128.0242
+        },
+        {
+          "year": 2012,
+          "value": 129.348
+        },
+        {
+          "year": 2013,
+          "value": 99.3785
+        },
+        {
+          "year": 2014,
+          "value": 100.7678
+        },
+        {
+          "year": 2015,
+          "value": 101.5948
+        },
+        {
+          "year": 2016,
+          "value": 103.4207
+        },
+        {
+          "year": 2017,
+          "value": 106.3815
+        },
+        {
+          "year": 2018,
+          "value": 105.8019
+        },
+        {
+          "year": 2019,
+          "value": 102.7375
+        },
+        {
+          "year": 2020,
+          "value": 103.1519
+        },
+        {
+          "year": 2021,
+          "value": 100.8956
+        },
+        {
+          "year": 2022,
+          "value": 102.139
+        },
+        {
+          "year": 2023,
+          "value": null
+        },
+        {
+          "year": 2024,
+          "value": 103.9845
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 103.9845,
+      "data_points_count": 18,
+      "coverage_percent": 72.0
+    },
+    "school_enrollment_secondary": {
+      "metadata": {
+        "id": "school_enrollment_secondary",
+        "code": "SE.SEC.ENRR",
+        "name": "School Enrollment, Secondary (% Gross)",
+        "short_description": "Total enrollment in secondary education, regardless of age, expressed as percentage of the official secondary education age population.",
+        "category": "Education",
+        "unit": "% gross",
+        "source": "UNESCO Institute for Statistics.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": null
+        },
+        {
+          "year": 2001,
+          "value": null
+        },
+        {
+          "year": 2002,
+          "value": null
+        },
+        {
+          "year": 2003,
+          "value": null
+        },
+        {
+          "year": 2004,
+          "value": null
+        },
+        {
+          "year": 2005,
+          "value": 87.1482
+        },
+        {
+          "year": 2006,
+          "value": null
+        },
+        {
+          "year": 2007,
+          "value": 91.6758
+        },
+        {
+          "year": 2008,
+          "value": null
+        },
+        {
+          "year": 2009,
+          "value": 99.7554
+        },
+        {
+          "year": 2010,
+          "value": null
+        },
+        {
+          "year": 2011,
+          "value": null
+        },
+        {
+          "year": 2012,
+          "value": null
+        },
+        {
+          "year": 2013,
+          "value": 93.0169
+        },
+        {
+          "year": 2014,
+          "value": 98.8496
+        },
+        {
+          "year": 2015,
+          "value": 102.9792
+        },
+        {
+          "year": 2016,
+          "value": 105.4916
+        },
+        {
+          "year": 2017,
+          "value": 106.2449
+        },
+        {
+          "year": 2018,
+          "value": 106.3762
+        },
+        {
+          "year": 2019,
+          "value": 104.0483
+        },
+        {
+          "year": 2020,
+          "value": 104.411
+        },
+        {
+          "year": 2021,
+          "value": 104.281
+        },
+        {
+          "year": 2022,
+          "value": 122.158
+        },
+        {
+          "year": 2023,
+          "value": null
+        },
+        {
+          "year": 2024,
+          "value": 110.6635
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 110.6635,
+      "data_points_count": 14,
+      "coverage_percent": 56.0
+    },
+    "education_expenditure_gdp": {
+      "metadata": {
+        "id": "education_expenditure_gdp",
+        "code": "SE.XPD.TOTL.GD.ZS",
+        "name": "Government Expenditure on Education (% of GDP)",
+        "short_description": "General government expenditure on education (current, capital, and transfers) expressed as percentage of GDP.",
+        "category": "Education",
+        "unit": "% of GDP",
+        "source": "UNESCO Institute for Statistics.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 5.9098
+        },
+        {
+          "year": 2001,
+          "value": 7.7189
+        },
+        {
+          "year": 2002,
+          "value": 7.6369
+        },
+        {
+          "year": 2003,
+          "value": 7.1051
+        },
+        {
+          "year": 2004,
+          "value": 6.2775
+        },
+        {
+          "year": 2005,
+          "value": 5.4309
+        },
+        {
+          "year": 2006,
+          "value": 5.8912
+        },
+        {
+          "year": 2007,
+          "value": null
+        },
+        {
+          "year": 2008,
+          "value": 5.1378
+        },
+        {
+          "year": 2009,
+          "value": null
+        },
+        {
+          "year": 2010,
+          "value": null
+        },
+        {
+          "year": 2011,
+          "value": null
+        },
+        {
+          "year": 2012,
+          "value": null
+        },
+        {
+          "year": 2013,
+          "value": null
+        },
+        {
+          "year": 2014,
+          "value": null
+        },
+        {
+          "year": 2015,
+          "value": null
+        },
+        {
+          "year": 2016,
+          "value": null
+        },
+        {
+          "year": 2017,
+          "value": null
+        },
+        {
+          "year": 2018,
+          "value": null
+        },
+        {
+          "year": 2019,
+          "value": null
+        },
+        {
+          "year": 2020,
+          "value": null
+        },
+        {
+          "year": 2021,
+          "value": null
+        },
+        {
+          "year": 2022,
+          "value": null
+        },
+        {
+          "year": 2023,
+          "value": 4.4809
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2023,
+      "latest_value": 4.4809,
+      "data_points_count": 9,
+      "coverage_percent": 36.0
+    },
+    "literacy_rate_adult": {
+      "metadata": {
+        "id": "literacy_rate_adult",
+        "code": "SE.ADT.LITR.ZS",
+        "name": "Adult Literacy Rate (% Ages 15+)",
+        "short_description": "Percentage of people aged 15 and above who can both read and write with understanding a short simple statement.",
+        "category": "Education",
+        "unit": "%",
+        "source": "UNESCO Institute for Statistics.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 79.35
+        },
+        {
+          "year": 2001,
+          "value": null
+        },
+        {
+          "year": 2002,
+          "value": null
+        },
+        {
+          "year": 2003,
+          "value": null
+        },
+        {
+          "year": 2004,
+          "value": 82.86
+        },
+        {
+          "year": 2005,
+          "value": null
+        },
+        {
+          "year": 2006,
+          "value": null
+        },
+        {
+          "year": 2007,
+          "value": null
+        },
+        {
+          "year": 2008,
+          "value": null
+        },
+        {
+          "year": 2009,
+          "value": null
+        },
+        {
+          "year": 2010,
+          "value": null
+        },
+        {
+          "year": 2011,
+          "value": null
+        },
+        {
+          "year": 2012,
+          "value": null
+        },
+        {
+          "year": 2013,
+          "value": 94.43
+        },
+        {
+          "year": 2014,
+          "value": null
+        },
+        {
+          "year": 2015,
+          "value": null
+        },
+        {
+          "year": 2016,
+          "value": null
+        },
+        {
+          "year": 2017,
+          "value": 95.33
+        },
+        {
+          "year": 2018,
+          "value": null
+        },
+        {
+          "year": 2019,
+          "value": null
+        },
+        {
+          "year": 2020,
+          "value": 97.59
+        },
+        {
+          "year": 2021,
+          "value": null
+        },
+        {
+          "year": 2022,
+          "value": null
+        },
+        {
+          "year": 2023,
+          "value": null
+        },
+        {
+          "year": 2024,
+          "value": 97.93
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 97.93,
+      "data_points_count": 6,
+      "coverage_percent": 24.0
+    },
+    "internet_users_percent": {
+      "metadata": {
+        "id": "internet_users_percent",
+        "code": "IT.NET.USER.ZS",
+        "name": "Individuals Using the Internet (% of Population)",
+        "short_description": "Percentage of individuals who used the Internet from any location in the last 3 months via any device.",
+        "category": "Digital",
+        "unit": "%",
+        "source": "International Telecommunication Union (ITU) World Telecommunication/ICT Indicators.",
+        "format": "percentage",
+        "chart_type": "area",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 2.2107
+        },
+        {
+          "year": 2001,
+          "value": 4.6811
+        },
+        {
+          "year": 2002,
+          "value": 6.3847
+        },
+        {
+          "year": 2003,
+          "value": 8.0016
+        },
+        {
+          "year": 2004,
+          "value": 10.2345
+        },
+        {
+          "year": 2005,
+          "value": 12.705
+        },
+        {
+          "year": 2006,
+          "value": 19.4596
+        },
+        {
+          "year": 2007,
+          "value": 30.0
+        },
+        {
+          "year": 2008,
+          "value": 36.0
+        },
+        {
+          "year": 2009,
+          "value": 38.0
+        },
+        {
+          "year": 2010,
+          "value": 41.0
+        },
+        {
+          "year": 2011,
+          "value": 47.5
+        },
+        {
+          "year": 2012,
+          "value": 54.0
+        },
+        {
+          "year": 2013,
+          "value": 60.5
+        },
+        {
+          "year": 2014,
+          "value": 64.7137
+        },
+        {
+          "year": 2015,
+          "value": 69.6162
+        },
+        {
+          "year": 2016,
+          "value": 74.8793
+        },
+        {
+          "year": 2017,
+          "value": 94.1756
+        },
+        {
+          "year": 2018,
+          "value": 93.31
+        },
+        {
+          "year": 2019,
+          "value": 95.7247
+        },
+        {
+          "year": 2020,
+          "value": 97.8623
+        },
+        {
+          "year": 2021,
+          "value": 100.0
+        },
+        {
+          "year": 2022,
+          "value": 100.0
+        },
+        {
+          "year": 2023,
+          "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 100.0,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "mobile_subscriptions_per_100": {
+      "metadata": {
+        "id": "mobile_subscriptions_per_100",
+        "code": "IT.CEL.SETS.P2",
+        "name": "Mobile Cellular Subscriptions (per 100 People)",
+        "short_description": "Subscriptions to a public mobile telephone service providing access to the PSTN using cellular technology.",
+        "category": "Digital",
+        "unit": "per 100 people",
+        "source": "International Telecommunication Union (ITU).",
+        "format": "decimal",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 8.5048
+        },
+        {
+          "year": 2001,
+          "value": 14.8382
+        },
+        {
+          "year": 2002,
+          "value": 27.9604
+        },
+        {
+          "year": 2003,
+          "value": 38.5283
+        },
+        {
+          "year": 2004,
+          "value": 46.6498
+        },
+        {
+          "year": 2005,
+          "value": 68.8923
+        },
+        {
+          "year": 2006,
+          "value": 91.8024
+        },
+        {
+          "year": 2007,
+          "value": 126.9653
+        },
+        {
+          "year": 2008,
+          "value": 154.5869
+        },
+        {
+          "year": 2009,
+          "value": 185.2548
+        },
+        {
+          "year": 2010,
+          "value": 204.9692
+        },
+        {
+          "year": 2011,
+          "value": 206.8518
+        },
+        {
+          "year": 2012,
+          "value": 195.8434
+        },
+        {
+          "year": 2013,
+          "value": 189.4756
+        },
+        {
+          "year": 2014,
+          "value": 181.8566
+        },
+        {
+          "year": 2015,
+          "value": 176.134
+        },
+        {
+          "year": 2016,
+          "value": 156.0415
+        },
+        {
+          "year": 2017,
+          "value": 130.6297
+        },
+        {
+          "year": 2018,
+          "value": 136.0462
+        },
+        {
+          "year": 2019,
+          "value": 135.5262
+        },
+        {
+          "year": 2020,
+          "value": 139.4442
+        },
+        {
+          "year": 2021,
+          "value": 145.0038
+        },
+        {
+          "year": 2022,
+          "value": 149.7979
+        },
+        {
+          "year": 2023,
+          "value": 157.7754
+        },
+        {
+          "year": 2024,
+          "value": 159.5414
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 159.5414,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "secure_internet_servers_per_million": {
+      "metadata": {
+        "id": "secure_internet_servers_per_million",
+        "code": "IT.NET.SECR.P6",
+        "name": "Secure Internet Servers (per Million People)",
+        "short_description": "Number of publicly accessible secure Internet servers using SSL/TLS encryption per million people.",
+        "category": "Digital",
+        "unit": "per 1M people",
+        "source": "Netcraft and World Bank population estimates.",
+        "format": "number",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": null
+        },
+        {
+          "year": 2001,
+          "value": null
+        },
+        {
+          "year": 2002,
+          "value": null
+        },
+        {
+          "year": 2003,
+          "value": null
+        },
+        {
+          "year": 2004,
+          "value": null
+        },
+        {
+          "year": 2005,
+          "value": null
+        },
+        {
+          "year": 2006,
+          "value": null
+        },
+        {
+          "year": 2007,
+          "value": null
+        },
+        {
+          "year": 2008,
+          "value": null
+        },
+        {
+          "year": 2009,
+          "value": null
+        },
+        {
+          "year": 2010,
+          "value": 14.9718
+        },
+        {
+          "year": 2011,
+          "value": 22.9955
+        },
+        {
+          "year": 2012,
+          "value": 44.9389
+        },
+        {
+          "year": 2013,
+          "value": 56.3278
+        },
+        {
+          "year": 2014,
+          "value": 77.3245
+        },
+        {
+          "year": 2015,
+          "value": 95.1155
+        },
+        {
+          "year": 2016,
+          "value": 111.1965
+        },
+        {
+          "year": 2017,
+          "value": 178.227
+        },
+        {
+          "year": 2018,
+          "value": 180.3202
+        },
+        {
+          "year": 2019,
+          "value": 208.0908
+        },
+        {
+          "year": 2020,
+          "value": 252.8167
+        },
+        {
+          "year": 2021,
+          "value": 306.4541
+        },
+        {
+          "year": 2022,
+          "value": 323.7584
+        },
+        {
+          "year": 2023,
+          "value": 425.5441
+        },
+        {
+          "year": 2024,
+          "value": 482.7724
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 482.7724,
+      "data_points_count": 15,
+      "coverage_percent": 60.0
+    },
+    "forest_area_percent": {
+      "metadata": {
+        "id": "forest_area_percent",
+        "code": "AG.LND.FRST.ZS",
+        "name": "Forest Area (% of Land Area)",
+        "short_description": "Land spanning more than 0.5 hectares with trees higher than 5 meters and a canopy cover of more than 10 percent.",
+        "category": "Environment",
+        "unit": "%",
+        "source": "Food and Agriculture Organization (FAO) Global Forest Resources Assessment.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 0.4545
+        },
+        {
+          "year": 2001,
+          "value": 0.4545
+        },
+        {
+          "year": 2002,
+          "value": 0.4545
+        },
+        {
+          "year": 2003,
+          "value": 0.4545
+        },
+        {
+          "year": 2004,
+          "value": 0.4545
+        },
+        {
+          "year": 2005,
+          "value": 0.4545
+        },
+        {
+          "year": 2006,
+          "value": 0.4545
+        },
+        {
+          "year": 2007,
+          "value": 0.4545
+        },
+        {
+          "year": 2008,
+          "value": 0.4545
+        },
+        {
+          "year": 2009,
+          "value": 0.4545
+        },
+        {
+          "year": 2010,
+          "value": 0.4545
+        },
+        {
+          "year": 2011,
+          "value": 0.4545
+        },
+        {
+          "year": 2012,
+          "value": 0.4545
+        },
+        {
+          "year": 2013,
+          "value": 0.4545
+        },
+        {
+          "year": 2014,
+          "value": 0.4545
+        },
+        {
+          "year": 2015,
+          "value": 0.4545
+        },
+        {
+          "year": 2016,
+          "value": 0.4545
+        },
+        {
+          "year": 2017,
+          "value": 0.4545
+        },
+        {
+          "year": 2018,
+          "value": 0.4545
+        },
+        {
+          "year": 2019,
+          "value": 0.4545
+        },
+        {
+          "year": 2020,
+          "value": 0.4545
+        },
+        {
+          "year": 2021,
+          "value": 0.4545
+        },
+        {
+          "year": 2022,
+          "value": 0.4545
+        },
+        {
+          "year": 2023,
+          "value": 0.4545
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2023,
+      "latest_value": 0.4545,
+      "data_points_count": 24,
+      "coverage_percent": 96.0
+    },
+    "renewable_electricity_output": {
+      "metadata": {
+        "id": "renewable_electricity_output",
+        "code": "EG.ELC.RNEW.ZS",
+        "name": "Renewable Electricity Output (% of Total Electricity)",
+        "short_description": "Share of electricity generated by renewable power plants including hydropower, solar, wind, and bioenergy.",
+        "category": "Environment",
+        "unit": "%",
+        "source": "IEA World Energy Statistics and Balances.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 0.0005
+        },
+        {
+          "year": 2001,
+          "value": 0.0005
+        },
+        {
+          "year": 2002,
+          "value": 0.0004
+        },
+        {
+          "year": 2003,
+          "value": 0.0004
+        },
+        {
+          "year": 2004,
+          "value": 0.0004
+        },
+        {
+          "year": 2005,
+          "value": 0.0003
+        },
+        {
+          "year": 2006,
+          "value": 0.0003
+        },
+        {
+          "year": 2007,
+          "value": 0.0003
+        },
+        {
+          "year": 2008,
+          "value": 0.0003
+        },
+        {
+          "year": 2009,
+          "value": 0.0003
+        },
+        {
+          "year": 2010,
+          "value": 0.0017
+        },
+        {
+          "year": 2011,
+          "value": 0.0022
+        },
+        {
+          "year": 2012,
+          "value": 0.0089
+        },
+        {
+          "year": 2013,
+          "value": 0.014
+        },
+        {
+          "year": 2014,
+          "value": 0.0136
+        },
+        {
+          "year": 2015,
+          "value": 0.0127
+        },
+        {
+          "year": 2016,
+          "value": 0.0124
+        },
+        {
+          "year": 2017,
+          "value": 0.0184
+        },
+        {
+          "year": 2018,
+          "value": 0.0562
+        },
+        {
+          "year": 2019,
+          "value": 0.0688
+        },
+        {
+          "year": 2020,
+          "value": 0.0676
+        },
+        {
+          "year": 2021,
+          "value": 0.0653
+        },
+        {
+          "year": 2022,
+          "value": null
+        },
+        {
+          "year": 2023,
+          "value": null
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2021,
+      "latest_value": 0.0653,
+      "data_points_count": 22,
+      "coverage_percent": 88.0
+    },
+    "renewable_energy_consumption_percent": {
+      "metadata": {
+        "id": "renewable_energy_consumption_percent",
+        "code": "EG.FEC.RNEW.ZS",
+        "name": "Renewable Energy Consumption (% of Total Final Energy)",
+        "short_description": "Share of renewable energy in total final energy consumption.",
+        "category": "Environment",
+        "unit": "%",
+        "source": "World Bank, Sustainable Energy for All (SE4ALL) database.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 0.0
+        },
+        {
+          "year": 2001,
+          "value": 0.0
+        },
+        {
+          "year": 2002,
+          "value": 0.0
+        },
+        {
+          "year": 2003,
+          "value": 0.0
+        },
+        {
+          "year": 2004,
+          "value": 0.0
+        },
+        {
+          "year": 2005,
+          "value": 0.0
+        },
+        {
+          "year": 2006,
+          "value": 0.0
+        },
+        {
+          "year": 2007,
+          "value": 0.0
+        },
+        {
+          "year": 2008,
+          "value": 0.0
+        },
+        {
+          "year": 2009,
+          "value": 0.0
+        },
+        {
+          "year": 2010,
+          "value": 0.0
+        },
+        {
+          "year": 2011,
+          "value": 0.0
+        },
+        {
+          "year": 2012,
+          "value": 0.0
+        },
+        {
+          "year": 2013,
+          "value": 0.0
+        },
+        {
+          "year": 2014,
+          "value": 0.0
+        },
+        {
+          "year": 2015,
+          "value": 0.0
+        },
+        {
+          "year": 2016,
+          "value": 0.0
+        },
+        {
+          "year": 2017,
+          "value": 0.0
+        },
+        {
+          "year": 2018,
+          "value": 0.0
+        },
+        {
+          "year": 2019,
+          "value": 0.0
+        },
+        {
+          "year": 2020,
+          "value": 0.1
+        },
+        {
+          "year": 2021,
+          "value": 0.1
+        },
+        {
+          "year": 2022,
+          "value": null
+        },
+        {
+          "year": 2023,
+          "value": null
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2021,
+      "latest_value": 0.1,
+      "data_points_count": 22,
+      "coverage_percent": 88.0
+    },
+    "energy_use_per_capita": {
+      "metadata": {
+        "id": "energy_use_per_capita",
+        "code": "EG.USE.PCAP.KG.OE",
+        "name": "Energy Use (kg of Oil Equivalent per Capita)",
+        "short_description": "Use of primary energy before transformation to other end-use fuels.",
+        "category": "Environment",
+        "unit": "kgoe",
+        "source": "International Energy Agency (IEA).",
+        "format": "number",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 6516.0076
+        },
+        {
+          "year": 2001,
+          "value": 6348.5894
+        },
+        {
+          "year": 2002,
+          "value": 6826.9957
+        },
+        {
+          "year": 2003,
+          "value": 6631.8159
+        },
+        {
+          "year": 2004,
+          "value": 6375.5447
+        },
+        {
+          "year": 2005,
+          "value": 6447.0719
+        },
+        {
+          "year": 2006,
+          "value": 6605.441
+        },
+        {
+          "year": 2007,
+          "value": 6696.9475
+        },
+        {
+          "year": 2008,
+          "value": 6980.059
+        },
+        {
+          "year": 2009,
+          "value": 7125.053
+        },
+        {
+          "year": 2010,
+          "value": 7965.2612
+        },
+        {
+          "year": 2011,
+          "value": 7979.38
+        },
+        {
+          "year": 2012,
+          "value": 7862.4235
+        },
+        {
+          "year": 2013,
+          "value": 7401.1713
+        },
+        {
+          "year": 2014,
+          "value": 7959.8135
+        },
+        {
+          "year": 2015,
+          "value": 7786.9165
+        },
+        {
+          "year": 2016,
+          "value": 7521.5891
+        },
+        {
+          "year": 2017,
+          "value": 7707.0563
+        },
+        {
+          "year": 2018,
+          "value": 7650.7634
+        },
+        {
+          "year": 2019,
+          "value": 7669.3991
+        },
+        {
+          "year": 2020,
+          "value": 7172.008
+        },
+        {
+          "year": 2021,
+          "value": 7467.0248
+        },
+        {
+          "year": 2022,
+          "value": 7525.2532
+        },
+        {
+          "year": 2023,
+          "value": 7148.5873
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2023,
+      "latest_value": 7148.5873,
+      "data_points_count": 24,
+      "coverage_percent": 96.0
+    },
+    "electricity_access_percent": {
+      "metadata": {
+        "id": "electricity_access_percent",
+        "code": "EG.ELC.ACCS.ZS",
+        "name": "Access to Electricity (% of Population)",
+        "short_description": "Percentage of people in a country with access to electricity from grid or off-grid sources.",
+        "category": "Environment",
+        "unit": "%",
+        "source": "World Bank, Sustainable Energy for All (SE4ALL) database.",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 100.0
+        },
+        {
+          "year": 2001,
+          "value": 100.0
+        },
+        {
+          "year": 2002,
+          "value": 100.0
+        },
+        {
+          "year": 2003,
+          "value": 100.0
+        },
+        {
+          "year": 2004,
+          "value": 100.0
+        },
+        {
+          "year": 2005,
+          "value": 100.0
+        },
+        {
+          "year": 2006,
+          "value": 100.0
+        },
+        {
+          "year": 2007,
+          "value": 100.0
+        },
+        {
+          "year": 2008,
+          "value": 100.0
+        },
+        {
+          "year": 2009,
+          "value": 100.0
+        },
+        {
+          "year": 2010,
+          "value": 100.0
+        },
+        {
+          "year": 2011,
+          "value": 100.0
+        },
+        {
+          "year": 2012,
+          "value": 100.0
+        },
+        {
+          "year": 2013,
+          "value": 100.0
+        },
+        {
+          "year": 2014,
+          "value": 100.0
+        },
+        {
+          "year": 2015,
+          "value": 100.0
+        },
+        {
+          "year": 2016,
+          "value": 99.9
+        },
+        {
+          "year": 2017,
+          "value": 100.0
+        },
+        {
+          "year": 2018,
+          "value": 99.9
+        },
+        {
+          "year": 2019,
+          "value": 100.0
+        },
+        {
+          "year": 2020,
+          "value": 100.0
+        },
+        {
+          "year": 2021,
+          "value": 100.0
+        },
+        {
+          "year": 2022,
+          "value": 100.0
+        },
+        {
+          "year": 2023,
+          "value": 100.0
+        },
+        {
+          "year": 2024,
+          "value": 100.0
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 100.0,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
+    },
+    "electric_power_consumption_per_capita": {
+      "metadata": {
+        "id": "electric_power_consumption_per_capita",
+        "code": "EG.USE.ELEC.KH.PC",
+        "name": "Electric Power Consumption (kWh per Capita)",
+        "short_description": "Electric power consumption measures the production of power plants and combined heat and power plants less transmission, distribution, and transformation losses.",
+        "category": "Environment",
+        "unit": "kWh per capita",
+        "source": "International Energy Agency (IEA).",
+        "format": "number",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 7235.8766
+        },
+        {
+          "year": 2001,
+          "value": 7399.5107
+        },
+        {
+          "year": 2002,
+          "value": 7364.6733
+        },
+        {
+          "year": 2003,
+          "value": 7771.3212
+        },
+        {
+          "year": 2004,
+          "value": 7470.8635
+        },
+        {
+          "year": 2005,
+          "value": 7662.7355
+        },
+        {
+          "year": 2006,
+          "value": 7811.868
+        },
+        {
+          "year": 2007,
+          "value": 7816.6378
+        },
+        {
+          "year": 2008,
+          "value": 8007.9434
+        },
+        {
+          "year": 2009,
+          "value": 8221.9772
+        },
+        {
+          "year": 2010,
+          "value": 9119.8832
+        },
+        {
+          "year": 2011,
+          "value": 9027.0286
+        },
+        {
+          "year": 2012,
+          "value": 10145.646
+        },
+        {
+          "year": 2013,
+          "value": 10244.6409
+        },
+        {
+          "year": 2014,
+          "value": 11159.7002
+        },
+        {
+          "year": 2015,
+          "value": 11233.925
+        },
+        {
+          "year": 2016,
+          "value": 11051.1989
+        },
+        {
+          "year": 2017,
+          "value": 11201.0854
+        },
+        {
+          "year": 2018,
+          "value": 11788.7034
+        },
+        {
+          "year": 2019,
+          "value": 11876.2768
+        },
+        {
+          "year": 2020,
+          "value": 11360.9979
+        },
+        {
+          "year": 2021,
+          "value": 12074.5314
+        },
+        {
+          "year": 2022,
+          "value": 11840.6013
+        },
+        {
+          "year": 2023,
+          "value": 11910.5778
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2023,
+      "latest_value": 11910.5778,
+      "data_points_count": 24,
+      "coverage_percent": 96.0
+    },
+    "agricultural_land_percent": {
+      "metadata": {
+        "id": "agricultural_land_percent",
+        "code": "AG.LND.AGRI.ZS",
+        "name": "Agricultural Land (% of Land Area)",
+        "short_description": "Share of land area that is arable, under permanent crops, and under permanent pastures.",
+        "category": "Environment",
+        "unit": "%",
+        "source": "Food and Agriculture Organization (FAO).",
+        "format": "percentage",
+        "chart_type": "line",
+        "descriptive_only": true
+      },
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 80.8488
+        },
+        {
+          "year": 2001,
+          "value": 80.8436
+        },
+        {
+          "year": 2002,
+          "value": 80.8402
+        },
+        {
+          "year": 2003,
+          "value": 80.8382
+        },
+        {
+          "year": 2004,
+          "value": 80.839
+        },
+        {
+          "year": 2005,
+          "value": 80.8384
+        },
+        {
+          "year": 2006,
+          "value": 80.8373
+        },
+        {
+          "year": 2007,
+          "value": 80.8353
+        },
+        {
+          "year": 2008,
+          "value": 80.8329
+        },
+        {
+          "year": 2009,
+          "value": 80.8313
+        },
+        {
+          "year": 2010,
+          "value": 80.821
+        },
+        {
+          "year": 2011,
+          "value": 80.818
+        },
+        {
+          "year": 2012,
+          "value": 80.8133
+        },
+        {
+          "year": 2013,
+          "value": 80.8085
+        },
+        {
+          "year": 2014,
+          "value": 80.7661
+        },
+        {
+          "year": 2015,
+          "value": 80.7626
+        },
+        {
+          "year": 2016,
+          "value": 80.7597
+        },
+        {
+          "year": 2017,
+          "value": 80.7591
+        },
+        {
+          "year": 2018,
+          "value": 80.7583
+        },
+        {
+          "year": 2019,
+          "value": 80.7637
+        },
+        {
+          "year": 2020,
+          "value": 80.7734
+        },
+        {
+          "year": 2021,
+          "value": 80.7732
+        },
+        {
+          "year": 2022,
+          "value": 80.7732
+        },
+        {
+          "year": 2023,
+          "value": 80.7732
+        },
+        {
+          "year": 2024,
+          "value": null
+        }
+      ],
+      "latest_year": 2023,
+      "latest_value": 80.7732,
+      "data_points_count": 24,
+      "coverage_percent": 96.0
+    }
+  },
+  "summary_metrics": {
+    "gdp": {
+      "value": 1254140800000.0,
+      "year": 2024,
+      "unit": "current US$",
+      "format": "currency"
+    },
+    "gdp_per_capita": {
+      "value": 35527.7862,
+      "year": 2024,
+      "unit": "current US$",
+      "format": "currency"
+    },
+    "population": {
+      "value": 35300280.0,
+      "year": 2024,
+      "unit": "people",
+      "format": "number"
+    },
+    "life_expectancy": {
+      "value": 78.982,
+      "year": 2024,
+      "unit": "years",
+      "format": "decimal"
+    },
+    "unemployment": {
+      "value": 3.518,
+      "year": 2024,
+      "unit": "%",
+      "format": "percentage"
+    },
+    "internet_users": {
+      "value": 100.0,
+      "year": 2024,
+      "unit": "%",
+      "format": "percentage"
+    }
+  }
+}

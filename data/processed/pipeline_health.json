@@ -1,0 +1,16 @@
+{
+  "status": "Healthy",
+  "status_message": "All validation checks passed with zero integrity errors.",
+  "last_run_timestamp": "2026-09-23T19:59:51Z",
+  "last_data_update": "2026-09-23 19:59 UTC",
+  "records_processed": 11250,
+  "records_changed": 0,
+  "missing_values": 987,
+  "missing_percentage": 8.77,
+  "validation_errors": 0,
+  "duplicates": 0,
+  "source": "World Bank Open Data API",
+  "refresh_frequency": "Every 8 hours (0 */8 * * *)",
+  "next_scheduled_run": "2026-09-24T03:59:51Z",
+  "environment": "Production CI/CD (GitHub Actions)"
+}

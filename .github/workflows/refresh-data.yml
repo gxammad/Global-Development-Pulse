@@ -1,0 +1,68 @@
+name: Refresh World Bank Data
+
+on:
+  schedule:
+    # Executes automatically every 8 hours (00:00, 08:00, 16:00 UTC)
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+    # Allows manual trigger via GitHub Actions UI
+
+permissions:
+  contents: write
+
+concurrency:
+  group: worldbank-etl-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh-and-deploy:
+    name: Execute World Bank ETL & Version Data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ETL Unit Tests
+        run: |
+          python -m unittest discover -s tests -p "test_*.py"
+
+      - name: Run Master Data Pipeline
+        id: run_pipeline
+        run: |
+          python scripts/pipeline.py
+
+      - name: Detect Processed Data Changes
+        id: check_changes
+        run: |
+          # Check whether git detects modifications in data/processed
+          if [ -n "$(git status --porcelain data/processed)" ]; then
+            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+            echo "Processed data changes confirmed. Preparing versioned commit."
+          else
+            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+            echo "No data changes detected. Skipping automated commit."
+          fi
+
+      - name: Commit and Push Updated Dataset
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed/
+          
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git commit -m "chore(data): automated World Bank data refresh [$TIMESTAMP] [skip ci]"
+          git push origin HEAD:${{ github.ref }}
