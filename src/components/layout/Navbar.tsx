@@ -13,8 +13,10 @@ import {
   Sun,
   Moon,
   Github,
+  Star,
   Menu,
-  X
+  X,
+  ExternalLink,
 } from "lucide-react";
 import { useTheme } from "@/components/theme/ThemeProvider";
 import type { PipelineHealth } from "@/types";
@@ -29,59 +31,63 @@ export function Navbar({ health }: NavbarProps) {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const status = health?.status || "Healthy";
-  const statusColor =
-    status === "Healthy"
-      ? "bg-emerald-500"
-      : status === "Warning"
-      ? "bg-amber-500"
-      : "bg-rose-500";
+  const isHealthy = status === "Healthy";
+  const isWarning = status === "Warning";
+
+  const statusDotClass = isHealthy
+    ? "bg-emerald-500"
+    : isWarning
+    ? "bg-amber-500"
+    : "bg-rose-500";
 
   const navItems = [
-    { label: "Countries", href: "/countries", icon: Globe2 },
-    { label: "Indicators", href: "/indicators", icon: BarChart3 },
-    { label: "Compare", href: "/compare", icon: GitCompare },
-    { label: "Pipeline", href: "/pipeline", icon: Terminal },
-    { label: "Methodology", href: "/methodology", icon: FileText },
+    { label: "Dashboard", href: "/" },
+    { label: "Countries", href: "/countries" },
+    { label: "Indicators", href: "/indicators" },
+    { label: "Compare", href: "/compare" },
+    { label: "Pipeline", href: "/pipeline" },
+    { label: "Methodology", href: "/methodology" },
   ];
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-border/80 bg-background/85 backdrop-blur-md">
+    <header className="sticky top-0 z-50 w-full border-b border-border/70 bg-background/80 backdrop-blur-xl transition-colors">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
-        {/* Brand */}
-        <div className="flex items-center gap-6">
+        {/* Left: Brand & Status */}
+        <div className="flex items-center gap-7">
           <Link href="/" className="flex items-center gap-2.5 group">
-            <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-surface border border-border shadow-sm group-hover:border-accent-blue/50 transition-colors">
-              <Activity className="h-5 w-5 text-accent-blue" />
+            <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-foreground text-background shadow-subtle group-hover:scale-105 transition-transform duration-200">
+              <Activity className="h-5 w-5 stroke-[2.5]" />
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <span className="font-semibold tracking-tight text-foreground text-sm sm:text-base">
+                <span className="font-extrabold tracking-tight text-foreground text-sm sm:text-base font-sans">
                   Global Development Pulse
                 </span>
-                <span className="hidden sm:inline-flex items-center gap-1 rounded-full bg-surface border border-border px-2 py-0.5 text-[11px] font-mono font-medium text-muted-foreground">
-                  <span className={`h-1.5 w-1.5 rounded-full ${statusColor} animate-pulse`} />
+                <span className="hidden sm:inline-flex items-center gap-1.5 rounded-full bg-surface border border-border px-2 py-0.5 text-[10px] font-mono font-medium text-muted-foreground">
+                  <span className={`h-1.5 w-1.5 rounded-full ${statusDotClass} animate-pulse`} />
                   {status}
                 </span>
               </div>
             </div>
           </Link>
 
-          {/* Desktop Nav */}
-          <nav className="hidden md:flex items-center gap-1">
+          {/* Center Navigation Links (Clean Minimalist Segment) */}
+          <nav className="hidden lg:flex items-center gap-1">
             {navItems.map((item) => {
-              const active = pathname === item.href || (item.href !== "/" && pathname.startsWith(item.href));
-              const Icon = item.icon;
+              const active =
+                item.href === "/"
+                  ? pathname === "/"
+                  : pathname.startsWith(item.href);
               return (
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-medium transition-all ${
+                  className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
                     active
-                      ? "bg-surface text-foreground font-semibold border border-border shadow-sm"
-                      : "text-muted-foreground hover:text-foreground hover:bg-surface-hover"
+                      ? "text-foreground bg-surface border border-border/80 shadow-subtle"
+                      : "text-muted-foreground hover:text-foreground hover:bg-surface-hover/70"
                   }`}
                 >
-                  <Icon className="h-3.5 w-3.5" />
                   {item.label}
                 </Link>
               );
@@ -89,43 +95,47 @@ export function Navbar({ health }: NavbarProps) {
           </nav>
         </div>
 
-        {/* Right Actions */}
-        <div className="flex items-center gap-2">
-          {/* Pipeline quick pill on desktop */}
-          <Link
-            href="/pipeline"
-            className="hidden lg:flex items-center gap-2 px-2.5 py-1 rounded-md text-xs text-muted-foreground hover:text-foreground hover:bg-surface border border-transparent hover:border-border transition-colors font-mono"
+        {/* Right: Master GitHub Button + Theme Toggle */}
+        <div className="flex items-center gap-2.5">
+          {/* GitHub Master Action Button */}
+          <a
+            href="https://github.com/gxammad/Global-Development-Pulse"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="GitHub Repository"
+            className="group flex items-center gap-2 px-3 py-1.5 rounded-full border border-border bg-surface hover:bg-surface-hover hover:border-accent-blue/40 text-foreground transition-all duration-200 shadow-subtle hover:shadow-card"
           >
-            <span>Run: Every 8h</span>
-            <span className="text-border">|</span>
-            <span className="text-emerald-500 font-medium">11.2k records</span>
-          </Link>
+            <Github className="h-4 w-4 text-foreground group-hover:rotate-6 transition-transform duration-200 shrink-0" />
+            <span className="text-xs font-semibold tracking-tight hidden md:inline font-sans">
+              gxammad/Global-Development-Pulse
+            </span>
+            <span className="text-xs font-semibold tracking-tight md:hidden">
+              Repo
+            </span>
+            <div className="flex items-center gap-1 pl-1.5 border-l border-border text-[11px] font-mono text-muted-foreground group-hover:text-foreground">
+              <Star className="h-3 w-3 fill-amber-400 text-amber-400" />
+              <span className="hidden sm:inline">Star</span>
+            </div>
+          </a>
 
           {/* Dark / Light Toggle */}
           <button
             onClick={toggleTheme}
             aria-label="Toggle Theme"
-            className="flex h-8 w-8 items-center justify-center rounded-md border border-border bg-surface text-muted-foreground hover:text-foreground hover:bg-surface-hover transition-colors"
+            className="flex h-9 w-9 items-center justify-center rounded-full border border-border bg-surface text-muted-foreground hover:text-foreground hover:bg-surface-hover transition-colors shadow-subtle"
           >
-            {theme === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
+            {theme === "dark" ? (
+              <Sun className="h-4 w-4 text-amber-400" />
+            ) : (
+              <Moon className="h-4 w-4 text-slate-700" />
+            )}
           </button>
-
-          {/* GitHub Repo */}
-          <a
-            href="https://github.com"
-            target="_blank"
-            rel="noreferrer"
-            aria-label="GitHub Repository"
-            className="hidden sm:flex h-8 w-8 items-center justify-center rounded-md border border-border bg-surface text-muted-foreground hover:text-foreground hover:bg-surface-hover transition-colors"
-          >
-            <Github className="h-4 w-4" />
-          </a>
 
           {/* Mobile hamburger */}
           <button
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
             aria-label="Toggle Menu"
-            className="flex md:hidden h-8 w-8 items-center justify-center rounded-md border border-border bg-surface text-muted-foreground hover:text-foreground"
+            className="flex lg:hidden h-9 w-9 items-center justify-center rounded-lg border border-border bg-surface text-muted-foreground hover:text-foreground"
           >
             {mobileMenuOpen ? <X className="h-4 w-4" /> : <Menu className="h-4 w-4" />}
           </button>
@@ -134,23 +144,25 @@ export function Navbar({ health }: NavbarProps) {
 
       {/* Mobile Drawer */}
       {mobileMenuOpen && (
-        <div className="md:hidden border-b border-border bg-background px-4 pt-2 pb-4 space-y-1">
+        <div className="lg:hidden border-b border-border bg-surface/95 backdrop-blur-md px-4 pt-2 pb-4 space-y-1">
           {navItems.map((item) => {
-            const active = pathname === item.href || (item.href !== "/" && pathname.startsWith(item.href));
-            const Icon = item.icon;
+            const active =
+              item.href === "/"
+                ? pathname === "/"
+                : pathname.startsWith(item.href);
             return (
               <Link
                 key={item.href}
                 href={item.href}
                 onClick={() => setMobileMenuOpen(false)}
-                className={`flex items-center gap-2.5 px-3 py-2 rounded-md text-sm font-medium ${
+                className={`flex items-center justify-between px-3.5 py-2.5 rounded-xl text-sm font-semibold ${
                   active
-                    ? "bg-surface text-foreground font-semibold border border-border"
+                    ? "bg-foreground text-background"
                     : "text-muted-foreground hover:text-foreground hover:bg-surface-hover"
                 }`}
               >
-                <Icon className="h-4 w-4" />
-                {item.label}
+                <span>{item.label}</span>
+                {active && <span className="h-1.5 w-1.5 rounded-full bg-accent-blue" />}
               </Link>
             );
           })}

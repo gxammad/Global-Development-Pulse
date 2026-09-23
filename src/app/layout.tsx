@@ -1,16 +1,24 @@
 import type { Metadata, Viewport } from "next";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme/ThemeProvider";
 import { Navbar } from "@/components/layout/Navbar";
 import { Footer } from "@/components/layout/Footer";
 import { getPipelineHealth } from "@/lib/data";
 
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  variable: "--font-montserrat",
+  weight: ["300", "400", "500", "600", "700", "800"],
+  display: "swap",
+});
+
 export const viewport: Viewport = {
   width: "device-width",
   initialScale: 1,
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "#f8fafc" },
-    { media: "(prefers-color-scheme: dark)", color: "#090a0f" },
+    { media: "(prefers-color-scheme: dark)", color: "#08090d" },
   ],
 };
 
@@ -50,8 +58,8 @@ export default async function RootLayout({
   const health = await getPipelineHealth();
 
   return (
-    <html lang="en" suppressHydrationWarning>
-      <body className="min-h-screen flex flex-col font-sans antialiased selection:bg-accent-blue/20 selection:text-accent-blue">
+    <html lang="en" className={montserrat.variable} suppressHydrationWarning>
+      <body className="min-h-screen flex flex-col font-sans antialiased selection:bg-accent-blue/20 selection:text-accent-blue bg-background text-foreground">
         <ThemeProvider>
           <div className="flex min-h-screen flex-col">
             <Navbar health={health} />
