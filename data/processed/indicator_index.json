@@ -250,9 +250,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "school_enrollment_secondary",
@@ -325,9 +325,9 @@
     "format": "decimal",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "secure_internet_servers_per_million",

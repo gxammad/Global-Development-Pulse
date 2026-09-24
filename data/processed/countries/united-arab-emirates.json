@@ -1943,112 +1943,11 @@
         "chart_type": "line",
         "descriptive_only": true
       },
-      "time_series": [
-        {
-          "year": 2000,
-          "value": 119.7553
-        },
-        {
-          "year": 2001,
-          "value": 122.87
-        },
-        {
-          "year": 2002,
-          "value": 118.7754
-        },
-        {
-          "year": 2003,
-          "value": 117.2597
-        },
-        {
-          "year": 2004,
-          "value": 110.6941
-        },
-        {
-          "year": 2005,
-          "value": 105.7199
-        },
-        {
-          "year": 2006,
-          "value": 100.2581
-        },
-        {
-          "year": 2007,
-          "value": null
-        },
-        {
-          "year": 2008,
-          "value": null
-        },
-        {
-          "year": 2009,
-          "value": null
-        },
-        {
-          "year": 2010,
-          "value": null
-        },
-        {
-          "year": 2011,
-          "value": null
-        },
-        {
-          "year": 2012,
-          "value": null
-        },
-        {
-          "year": 2013,
-          "value": null
-        },
-        {
-          "year": 2014,
-          "value": null
-        },
-        {
-          "year": 2015,
-          "value": null
-        },
-        {
-          "year": 2016,
-          "value": null
-        },
-        {
-          "year": 2017,
-          "value": null
-        },
-        {
-          "year": 2018,
-          "value": 105.6754
-        },
-        {
-          "year": 2019,
-          "value": 107.5332
-        },
-        {
-          "year": 2020,
-          "value": 108.0698
-        },
-        {
-          "year": 2021,
-          "value": 106.6528
-        },
-        {
-          "year": 2022,
-          "value": 107.2874
-        },
-        {
-          "year": 2023,
-          "value": 106.26
-        },
-        {
-          "year": 2024,
-          "value": 108.0444
-        }
-      ],
-      "latest_year": 2024,
-      "latest_value": 108.0444,
-      "data_points_count": 14,
-      "coverage_percent": 56.0
+      "time_series": [],
+      "latest_year": null,
+      "latest_value": null,
+      "data_points_count": 0,
+      "coverage_percent": 0.0
     },
     "school_enrollment_secondary": {
       "metadata": {
@@ -2543,112 +2442,11 @@
         "chart_type": "line",
         "descriptive_only": true
       },
-      "time_series": [
-        {
-          "year": 2000,
-          "value": 40.8783
-        },
-        {
-          "year": 2001,
-          "value": 51.2759
-        },
-        {
-          "year": 2002,
-          "value": 61.3641
-        },
-        {
-          "year": 2003,
-          "value": 70.8971
-        },
-        {
-          "year": 2004,
-          "value": 83.1597
-        },
-        {
-          "year": 2005,
-          "value": 97.1993
-        },
-        {
-          "year": 2006,
-          "value": 110.1853
-        },
-        {
-          "year": 2007,
-          "value": 137.458
-        },
-        {
-          "year": 2008,
-          "value": 148.4727
-        },
-        {
-          "year": 2009,
-          "value": 159.1141
-        },
-        {
-          "year": 2010,
-          "value": 157.4726
-        },
-        {
-          "year": 2011,
-          "value": 162.8936
-        },
-        {
-          "year": 2012,
-          "value": 183.7406
-        },
-        {
-          "year": 2013,
-          "value": 205.1055
-        },
-        {
-          "year": 2014,
-          "value": 204.1918
-        },
-        {
-          "year": 2015,
-          "value": 206.8394
-        },
-        {
-          "year": 2016,
-          "value": 220.4116
-        },
-        {
-          "year": 2017,
-          "value": 214.7013
-        },
-        {
-          "year": 2018,
-          "value": 214.8421
-        },
-        {
-          "year": 2019,
-          "value": 209.0332
-        },
-        {
-          "year": 2020,
-          "value": 194.4677
-        },
-        {
-          "year": 2021,
-          "value": 186.3009
-        },
-        {
-          "year": 2022,
-          "value": 195.6246
-        },
-        {
-          "year": 2023,
-          "value": 199.4238
-        },
-        {
-          "year": 2024,
-          "value": 203.2064
-        }
-      ],
-      "latest_year": 2024,
-      "latest_value": 203.2064,
-      "data_points_count": 25,
-      "coverage_percent": 100.0
+      "time_series": [],
+      "latest_year": null,
+      "latest_value": null,
+      "data_points_count": 0,
+      "coverage_percent": 0.0
     },
     "secure_internet_servers_per_million": {
       "metadata": {
