@@ -3,7 +3,7 @@ name: Refresh World Bank Data
 on:
   schedule:
     # Executes automatically every 8 hours (00:00, 08:00, 16:00 UTC)
-    - cron: "0 */8 * * *"
+   - cron: "0 0 */6 * *"
   workflow_dispatch:
     # Allows manual trigger via GitHub Actions UI
 
