@@ -2850,45 +2850,45 @@
         },
         {
           "year": 2016,
-          "value": 13.0575
+          "value": 13.0906
         },
         {
           "year": 2017,
-          "value": 13.0782
+          "value": 13.1402
         },
         {
           "year": 2018,
-          "value": 13.1154
+          "value": 13.1898
         },
         {
           "year": 2019,
-          "value": 13.1526
+          "value": 13.2394
         },
         {
           "year": 2020,
-          "value": 13.1856
+          "value": 13.289
         },
         {
           "year": 2021,
-          "value": 13.2215
+          "value": 13.341
         },
         {
           "year": 2022,
-          "value": 13.2555
+          "value": 13.3931
         },
         {
           "year": 2023,
-          "value": 13.2907
+          "value": 13.4452
         },
         {
           "year": 2024,
-          "value": null
+          "value": 13.4973
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 13.2907,
-      "data_points_count": 24,
-      "coverage_percent": 96.0
+      "latest_year": 2024,
+      "latest_value": 13.4973,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
     },
     "renewable_electricity_output": {
       "metadata": {
@@ -3234,19 +3234,19 @@
         },
         {
           "year": 2022,
-          "value": 2253.3028
+          "value": 2249.6493
         },
         {
           "year": 2023,
-          "value": 2126.5528
+          "value": 2129.1875
         },
         {
           "year": 2024,
-          "value": 2069.3792
+          "value": 2095.4116
         }
       ],
       "latest_year": 2024,
-      "latest_value": 2069.3792,
+      "latest_value": 2095.4116,
       "data_points_count": 25,
       "coverage_percent": 100.0
     },
@@ -3602,13 +3602,13 @@
         },
         {
           "year": 2024,
-          "value": null
+          "value": 69.2119
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 70.3073,
-      "data_points_count": 24,
-      "coverage_percent": 96.0
+      "latest_year": 2024,
+      "latest_value": 69.2119,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
     }
   },
   "summary_metrics": {

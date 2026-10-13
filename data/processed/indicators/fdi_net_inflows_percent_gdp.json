@@ -470,11 +470,11 @@
         },
         {
           "year": 2024,
-          "value": 0.7641
+          "value": 0.7622
         }
       ],
       "latest_year": 2024,
-      "latest_value": 0.7641
+      "latest_value": 0.7622
     },
     "NPL": {
       "country": {
@@ -698,15 +698,15 @@
         },
         {
           "year": 2023,
-          "value": 5.8718
+          "value": 5.8742
         },
         {
           "year": 2024,
-          "value": 8.2626
+          "value": 8.2618
         }
       ],
       "latest_year": 2024,
-      "latest_value": 8.2626
+      "latest_value": 8.2618
     },
     "SAU": {
       "country": {
@@ -1042,19 +1042,19 @@
         },
         {
           "year": 2022,
-          "value": 1.6001
+          "value": 1.6343
         },
         {
           "year": 2023,
-          "value": 1.3014
+          "value": 1.2574
         },
         {
           "year": 2024,
-          "value": 1.0139
+          "value": 0.8485
         }
       ],
       "latest_year": 2024,
-      "latest_value": 1.0139
+      "latest_value": 0.8485
     },
     "CAN": {
       "country": {
@@ -1394,15 +1394,15 @@
         },
         {
           "year": 2023,
-          "value": 0.5906
+          "value": 0.8765
         },
         {
           "year": 2024,
-          "value": 1.647
+          "value": 1.6932
         }
       ],
       "latest_year": 2024,
-      "latest_value": 1.647
+      "latest_value": 1.6932
     },
     "JPN": {
       "country": {
@@ -1630,11 +1630,11 @@
         },
         {
           "year": 2024,
-          "value": 3.0576
+          "value": 3.0734
         }
       ],
       "latest_year": 2024,
-      "latest_value": 3.0576
+      "latest_value": 3.0734
     },
     "CHN": {
       "country": {

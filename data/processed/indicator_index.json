@@ -357,7 +357,7 @@
     "descriptive_only": true,
     "reporting_countries_count": 15,
     "total_countries_count": 15,
-    "latest_global_year": 2023
+    "latest_global_year": 2024
   },
   {
     "id": "renewable_electricity_output",
@@ -447,6 +447,6 @@
     "descriptive_only": true,
     "reporting_countries_count": 15,
     "total_countries_count": 15,
-    "latest_global_year": 2023
+    "latest_global_year": 2024
   }
 ]

@@ -94,39 +94,39 @@
         },
         {
           "year": 2017,
-          "value": 495.9915
+          "value": 496.005
         },
         {
           "year": 2018,
-          "value": 494.7188
+          "value": 494.7233
         },
         {
           "year": 2019,
-          "value": 481.2806
+          "value": 481.285
         },
         {
           "year": 2020,
-          "value": 517.7749
+          "value": 517.7664
         },
         {
           "year": 2021,
-          "value": 570.2073
+          "value": 570.2032
         },
         {
           "year": 2022,
-          "value": 517.0729
+          "value": 517.0688
         },
         {
           "year": 2023,
-          "value": 518.2977
+          "value": 498.7667
         },
         {
           "year": 2024,
-          "value": null
+          "value": 493.4748
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 518.2977
+      "latest_year": 2024,
+      "latest_value": 493.4748
     },
     "IND": {
       "country": {
@@ -170,79 +170,79 @@
         },
         {
           "year": 2007,
-          "value": 533.1249
+          "value": 532.6688
         },
         {
           "year": 2008,
-          "value": 555.1046
+          "value": 554.5896
         },
         {
           "year": 2009,
-          "value": 588.3243
+          "value": 587.7523
         },
         {
           "year": 2010,
-          "value": 629.8959
+          "value": 629.2799
         },
         {
           "year": 2011,
-          "value": 678.6038
+          "value": 677.9393
         },
         {
           "year": 2012,
-          "value": 709.2923
+          "value": 708.5869
         },
         {
           "year": 2013,
-          "value": 743.8016
+          "value": 743.07
         },
         {
           "year": 2014,
-          "value": 808.2934
+          "value": 807.5367
         },
         {
           "year": 2015,
-          "value": 841.0854
+          "value": 840.9867
         },
         {
           "year": 2016,
-          "value": 879.9457
+          "value": 879.8319
         },
         {
           "year": 2017,
-          "value": 918.3137
+          "value": 918.1931
         },
         {
           "year": 2018,
-          "value": 970.8342
+          "value": 970.7149
         },
         {
           "year": 2019,
-          "value": 988.2722
+          "value": 988.1505
         },
         {
           "year": 2020,
-          "value": 901.3996
+          "value": 901.3689
         },
         {
           "year": 2021,
-          "value": 963.3639
+          "value": 963.704
         },
         {
           "year": 2022,
-          "value": 1085.3352
+          "value": 1080.6952
         },
         {
           "year": 2023,
-          "value": 1181.6313
+          "value": 1159.8076
         },
         {
           "year": 2024,
-          "value": null
+          "value": 1222.8315
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 1181.6313
+      "latest_year": 2024,
+      "latest_value": 1222.8315
     },
     "BGD": {
       "country": {
@@ -330,19 +330,19 @@
         },
         {
           "year": 2018,
-          "value": 473.3032
+          "value": 473.3093
         },
         {
           "year": 2019,
-          "value": 513.6343
+          "value": 513.6404
         },
         {
           "year": 2020,
-          "value": 511.6958
+          "value": 511.7018
         },
         {
           "year": 2021,
-          "value": 572.5138
+          "value": 572.5197
         },
         {
           "year": 2022,
@@ -350,15 +350,15 @@
         },
         {
           "year": 2023,
-          "value": 602.8974
+          "value": 602.8916
         },
         {
           "year": 2024,
-          "value": null
+          "value": 632.0956
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 602.8974
+      "latest_year": 2024,
+      "latest_value": 632.0956
     },
     "LKA": {
       "country": {
@@ -462,19 +462,19 @@
         },
         {
           "year": 2022,
-          "value": 657.4546
+          "value": 650.1961
         },
         {
           "year": 2023,
-          "value": 644.4616
+          "value": 636.7473
         },
         {
           "year": 2024,
-          "value": null
+          "value": 695.1086
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 644.4616
+      "latest_year": 2024,
+      "latest_value": 695.1086
     },
     "NPL": {
       "country": {
@@ -582,15 +582,15 @@
         },
         {
           "year": 2023,
-          "value": 350.9727
+          "value": 351.0401
         },
         {
           "year": 2024,
-          "value": null
+          "value": 388.9912
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 350.9727
+      "latest_year": 2024,
+      "latest_value": 388.9912
     },
     "ARE": {
       "country": {
@@ -702,11 +702,11 @@
         },
         {
           "year": 2024,
-          "value": null
+          "value": 15361.3559
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 15284.7011
+      "latest_year": 2024,
+      "latest_value": 15361.3559
     },
     "SAU": {
       "country": {
@@ -774,11 +774,11 @@
         },
         {
           "year": 2013,
-          "value": 10244.6409
+          "value": 10244.6771
         },
         {
           "year": 2014,
-          "value": 11159.7002
+          "value": 11159.7355
         },
         {
           "year": 2015,
@@ -786,7 +786,7 @@
         },
         {
           "year": 2016,
-          "value": 11051.1989
+          "value": 11051.2312
         },
         {
           "year": 2017,
@@ -814,15 +814,15 @@
         },
         {
           "year": 2023,
-          "value": 11910.5778
+          "value": 11942.415
         },
         {
           "year": 2024,
-          "value": null
+          "value": 11808.3483
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 11910.5778
+      "latest_year": 2024,
+      "latest_value": 11808.3483
     },
     "GBR": {
       "country": {
@@ -994,67 +994,67 @@
         },
         {
           "year": 2010,
-          "value": 13392.691
+          "value": 13382.0697
         },
         {
           "year": 2011,
-          "value": 13235.0088
+          "value": 13250.1961
         },
         {
           "year": 2012,
-          "value": 12945.157
+          "value": 12964.3497
         },
         {
           "year": 2013,
-          "value": 12972.22
+          "value": 12971.6264
         },
         {
           "year": 2014,
-          "value": 12962.1425
+          "value": 12999.1659
         },
         {
           "year": 2015,
-          "value": 12828.8161
+          "value": 12860.1943
         },
         {
           "year": 2016,
-          "value": 12806.1977
+          "value": 12784.7057
         },
         {
           "year": 2017,
-          "value": 12604.1626
+          "value": 12600.0965
         },
         {
           "year": 2018,
-          "value": 13054.4045
+          "value": 13020.2554
         },
         {
           "year": 2019,
-          "value": 12678.2541
+          "value": 12765.8122
         },
         {
           "year": 2020,
-          "value": 12393.4239
+          "value": 12385.1755
         },
         {
           "year": 2021,
-          "value": 12556.0762
+          "value": 12676.1906
         },
         {
           "year": 2022,
-          "value": 12968.9788
+          "value": 12968.9908
         },
         {
           "year": 2023,
-          "value": 12553.1331
+          "value": 12710.8412
         },
         {
           "year": 2024,
-          "value": 12839.3419
+          "value": 12933.7026
         }
       ],
       "latest_year": 2024,
-      "latest_value": 12839.3419
+      "latest_value": 12933.7026
     },
     "CAN": {
       "country": {
@@ -1158,19 +1158,19 @@
         },
         {
           "year": 2022,
-          "value": 14901.644
+          "value": 14892.2473
         },
         {
           "year": 2023,
-          "value": 14472.3146
+          "value": 14507.796
         },
         {
           "year": 2024,
-          "value": 14093.4604
+          "value": 14260.1257
         }
       ],
       "latest_year": 2024,
-      "latest_value": 14093.4604
+      "latest_value": 14260.1257
     },
     "DEU": {
       "country": {
@@ -1270,23 +1270,23 @@
         },
         {
           "year": 2021,
-          "value": 6582.5459
+          "value": 6582.2694
         },
         {
           "year": 2022,
-          "value": 6316.2757
+          "value": 6316.2637
         },
         {
           "year": 2023,
-          "value": 5947.2712
+          "value": 6079.2241
         },
         {
           "year": 2024,
-          "value": 6109.0854
+          "value": 6156.6807
         }
       ],
       "latest_year": 2024,
-      "latest_value": 6109.0854
+      "latest_value": 6156.6807
     },
     "FRA": {
       "country": {
@@ -1346,63 +1346,63 @@
         },
         {
           "year": 2011,
-          "value": 7350.228
+          "value": 7350.4117
         },
         {
           "year": 2012,
-          "value": 7473.8272
+          "value": 7474.0405
         },
         {
           "year": 2013,
-          "value": 7506.2049
+          "value": 7506.3261
         },
         {
           "year": 2014,
-          "value": 7106.6553
+          "value": 7106.8061
         },
         {
           "year": 2015,
-          "value": 7208.3014
+          "value": 7208.5117
         },
         {
           "year": 2016,
-          "value": 7276.8755
+          "value": 7277.1003
         },
         {
           "year": 2017,
-          "value": 7229.0394
+          "value": 7218.4144
         },
         {
           "year": 2018,
-          "value": 7156.8169
+          "value": 7162.0285
         },
         {
           "year": 2019,
-          "value": 7059.0747
+          "value": 7057.6203
         },
         {
           "year": 2020,
-          "value": 6685.6151
+          "value": 6683.8695
         },
         {
           "year": 2021,
-          "value": 6950.6996
+          "value": 6949.432
         },
         {
           "year": 2022,
-          "value": 6649.3893
+          "value": 6670.5525
         },
         {
           "year": 2023,
-          "value": 6415.0261
+          "value": 6395.8517
         },
         {
           "year": 2024,
-          "value": 6447.2114
+          "value": 6443.054
         }
       ],
       "latest_year": 2024,
-      "latest_value": 6447.2114
+      "latest_value": 6443.054
     },
     "JPN": {
       "country": {
@@ -1474,7 +1474,7 @@
         },
         {
           "year": 2014,
-          "value": 8113.2421
+          "value": 8113.2499
         },
         {
           "year": 2015,
@@ -1482,43 +1482,43 @@
         },
         {
           "year": 2016,
-          "value": 8066.0156
+          "value": 8066.0235
         },
         {
           "year": 2017,
-          "value": 8190.6011
+          "value": 8190.6562
         },
         {
           "year": 2018,
-          "value": 8058.0155
+          "value": 8057.8972
         },
         {
           "year": 2019,
-          "value": 7853.0399
+          "value": 7852.8741
         },
         {
           "year": 2020,
-          "value": 7687.2589
+          "value": 7687.0926
         },
         {
           "year": 2021,
-          "value": 7960.0121
+          "value": 7960.9191
         },
         {
           "year": 2022,
-          "value": 7800.0806
+          "value": 7800.0007
         },
         {
           "year": 2023,
-          "value": 7655.0164
+          "value": 7671.6166
         },
         {
           "year": 2024,
-          "value": 7530.0601
+          "value": 7781.1503
         }
       ],
       "latest_year": 2024,
-      "latest_value": 7530.0601
+      "latest_value": 7781.1503
     },
     "AUS": {
       "country": {
@@ -1626,15 +1626,15 @@
         },
         {
           "year": 2023,
-          "value": 9819.8712
+          "value": 9800.1412
         },
         {
           "year": 2024,
-          "value": 9800.956
+          "value": 9793.5647
         }
       ],
       "latest_year": 2024,
-      "latest_value": 9800.956
+      "latest_value": 9793.5647
     },
     "CHN": {
       "country": {
@@ -1726,11 +1726,11 @@
         },
         {
           "year": 2019,
-          "value": 5082.3878
+          "value": 5082.3857
         },
         {
           "year": 2020,
-          "value": 5261.941
+          "value": 5261.9389
         },
         {
           "year": 2021,
@@ -1742,15 +1742,15 @@
         },
         {
           "year": 2023,
-          "value": 6523.7193
+          "value": 6585.6703
         },
         {
           "year": 2024,
-          "value": null
+          "value": 7037.7367
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 6523.7193
+      "latest_year": 2024,
+      "latest_value": 7037.7367
     }
   }
 }

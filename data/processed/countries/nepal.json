@@ -2786,109 +2786,109 @@
       "time_series": [
         {
           "year": 2000,
-          "value": 40.3262
+          "value": 41.2663
         },
         {
           "year": 2001,
-          "value": 40.4526
+          "value": 41.383
         },
         {
           "year": 2002,
-          "value": 40.5791
+          "value": 41.4998
         },
         {
           "year": 2003,
-          "value": 40.7056
+          "value": 41.6166
         },
         {
           "year": 2004,
-          "value": 40.832
+          "value": 41.7334
         },
         {
           "year": 2005,
-          "value": 40.9585
+          "value": 41.8502
         },
         {
           "year": 2006,
-          "value": 41.0849
+          "value": 41.967
         },
         {
           "year": 2007,
-          "value": 41.2114
+          "value": 42.0838
         },
         {
           "year": 2008,
-          "value": 41.3378
+          "value": 42.2006
         },
         {
           "year": 2009,
-          "value": 41.4643
+          "value": 42.3173
         },
         {
           "year": 2010,
-          "value": 41.5907
+          "value": 42.4341
         },
         {
           "year": 2011,
-          "value": 41.5907
+          "value": 42.4585
         },
         {
           "year": 2012,
-          "value": 41.5907
+          "value": 42.483
         },
         {
           "year": 2013,
-          "value": 41.5907
+          "value": 42.5074
         },
         {
           "year": 2014,
-          "value": 41.5907
+          "value": 42.5319
         },
         {
           "year": 2015,
-          "value": 41.5907
+          "value": 42.5563
         },
         {
           "year": 2016,
-          "value": 41.5907
+          "value": 42.672
         },
         {
           "year": 2017,
-          "value": 41.5907
+          "value": 42.7877
         },
         {
           "year": 2018,
-          "value": 41.5907
+          "value": 42.9033
         },
         {
           "year": 2019,
-          "value": 41.5907
+          "value": 43.019
         },
         {
           "year": 2020,
-          "value": 41.5907
+          "value": 43.1346
         },
         {
           "year": 2021,
-          "value": 41.5907
+          "value": 43.2503
         },
         {
           "year": 2022,
-          "value": 41.5907
+          "value": 43.366
         },
         {
           "year": 2023,
-          "value": 41.5907
+          "value": 43.4816
         },
         {
           "year": 2024,
-          "value": null
+          "value": 43.5973
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 41.5907,
-      "data_points_count": 24,
-      "coverage_percent": 96.0
+      "latest_year": 2024,
+      "latest_value": 43.5973,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
     },
     "renewable_electricity_output": {
       "metadata": {
@@ -3170,85 +3170,85 @@
         },
         {
           "year": 2006,
-          "value": 343.8067
+          "value": 343.8049
         },
         {
           "year": 2007,
-          "value": 347.5435
+          "value": 347.5408
         },
         {
           "year": 2008,
-          "value": 356.9631
+          "value": 356.9551
         },
         {
           "year": 2009,
-          "value": 365.0031
+          "value": 364.9952
         },
         {
           "year": 2010,
-          "value": 373.4457
+          "value": 373.4326
         },
         {
           "year": 2011,
-          "value": 384.8373
+          "value": 384.819
         },
         {
           "year": 2012,
-          "value": 368.8977
+          "value": 368.8734
         },
         {
           "year": 2013,
-          "value": 413.9324
+          "value": 413.9029
         },
         {
           "year": 2014,
-          "value": 430.9595
+          "value": 430.925
         },
         {
           "year": 2015,
-          "value": 426.2431
+          "value": 426.2053
         },
         {
           "year": 2016,
-          "value": 458.169
+          "value": 458.1263
         },
         {
           "year": 2017,
-          "value": 484.0467
+          "value": 483.9972
         },
         {
           "year": 2018,
-          "value": 504.508
+          "value": 504.4544
         },
         {
           "year": 2019,
-          "value": 482.6283
+          "value": 482.5745
         },
         {
           "year": 2020,
-          "value": 524.4553
+          "value": 524.4042
         },
         {
           "year": 2021,
-          "value": 534.0317
+          "value": 533.9863
         },
         {
           "year": 2022,
-          "value": 429.2226
+          "value": 429.1744
         },
         {
           "year": 2023,
-          "value": 442.6489
+          "value": 439.4243
         },
         {
           "year": 2024,
-          "value": null
+          "value": 450.6141
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 442.6489,
-      "data_points_count": 24,
-      "coverage_percent": 96.0
+      "latest_year": 2024,
+      "latest_value": 450.6141,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
     },
     "electricity_access_percent": {
       "metadata": {
@@ -3478,17 +3478,17 @@
         },
         {
           "year": 2023,
-          "value": 350.9727
+          "value": 351.0401
         },
         {
           "year": 2024,
-          "value": null
+          "value": 388.9912
         }
       ],
-      "latest_year": 2023,
-      "latest_value": 350.9727,
-      "data_points_count": 24,
-      "coverage_percent": 96.0
+      "latest_year": 2024,
+      "latest_value": 388.9912,
+      "data_points_count": 25,
+      "coverage_percent": 100.0
     },
     "agricultural_land_percent": {
       "metadata": {
@@ -3514,39 +3514,39 @@
         },
         {
           "year": 2002,
-          "value": 29.5849
+          "value": 29.5903
         },
         {
           "year": 2003,
-          "value": 29.4873
+          "value": 29.4982
         },
         {
           "year": 2004,
-          "value": 29.4245
+          "value": 29.4062
         },
         {
           "year": 2005,
-          "value": 29.3129
+          "value": 29.3002
         },
         {
           "year": 2006,
-          "value": 29.1943
+          "value": 29.1872
         },
         {
           "year": 2007,
-          "value": 29.0617
+          "value": 29.0603
         },
         {
           "year": 2008,
-          "value": 28.9641
+          "value": 28.9682
         },
         {
           "year": 2009,
-          "value": 28.8804
+          "value": 28.8901
         },
         {
           "year": 2010,
-          "value": 28.7827
+          "value": 28.798
         },
         {
           "year": 2011,
@@ -3554,7 +3554,7 @@
         },
         {
           "year": 2012,
-          "value": 28.5151
+          "value": 28.5152
         },
         {
           "year": 2013,
@@ -3562,7 +3562,7 @@
         },
         {
           "year": 2014,
-          "value": 28.1675
+          "value": 28.1676
         },
         {
           "year": 2015,
@@ -3578,7 +3578,7 @@
         },
         {
           "year": 2018,
-          "value": 26.9733
+          "value": 26.9734
         },
         {
           "year": 2019,
@@ -3602,13 +3602,13 @@
         },
         {
           "year": 2024,
-          "value": null
+          "value": 26.1186
         }
       ],
-      "latest_year": 2023,
+      "latest_year": 2024,
       "latest_value": 26.1186,
-      "data_points_count": 24,
-      "coverage_percent": 96.0
+      "data_points_count": 25,
+      "coverage_percent": 100.0
     }
   },
   "summary_metrics": {
