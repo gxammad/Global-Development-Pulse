@@ -1,16 +1,16 @@
 {
   "status": "Healthy",
   "status_message": "All validation checks passed with zero integrity errors.",
-  "last_run_timestamp": "2026-10-13T05:43:45Z",
-  "last_data_update": "2026-10-13 05:43 UTC",
+  "last_run_timestamp": "2026-10-19T03:31:19Z",
+  "last_data_update": "2026-10-19 03:31 UTC",
   "records_processed": 11250,
-  "records_changed": 11250,
+  "records_changed": 0,
   "missing_values": 941,
   "missing_percentage": 8.36,
   "validation_errors": 0,
   "duplicates": 0,
   "source": "World Bank Open Data API",
   "refresh_frequency": "Every 8 hours (0 */8 * * *)",
-  "next_scheduled_run": "2026-10-13T13:43:45Z",
+  "next_scheduled_run": "2026-10-19T11:31:19Z",
   "environment": "Production CI/CD (GitHub Actions)"
 }
