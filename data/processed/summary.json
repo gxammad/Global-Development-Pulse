@@ -4,10 +4,10 @@
   "description": "Continuous ETL pipeline collecting, validating, versioning, and visualising 30 public development indicators across 15 nations directly from the World Bank Open Data API.",
   "tracked_countries_count": 15,
   "tracked_indicators_count": 30,
-  "total_records": 11250,
-  "valid_observations": 10309,
-  "data_freshness": "2026-11-01T04:42:41Z",
-  "last_updated_human": "2026-11-01 04:42 UTC",
+  "total_records": 0,
+  "valid_observations": 0,
+  "data_freshness": "2026-11-13T05:24:00Z",
+  "last_updated_human": "2026-11-13 05:24 UTC",
   "pipeline_status": "Healthy",
   "date_range": {
     "start": 2000,
@@ -21,29 +21,7 @@
     "Environment": 7,
     "Population": 6
   },
-  "highlights": [
-    {
-      "metric": "Highest Tracked GDP",
-      "country": "United States",
-      "value": 29298013000000.0,
-      "unit": "current US$",
-      "format": "currency"
-    },
-    {
-      "metric": "Highest Internet Adoption",
-      "country": "United Arab Emirates",
-      "value": 100.0,
-      "unit": "% of population",
-      "format": "percentage"
-    },
-    {
-      "metric": "Highest Life Expectancy",
-      "country": "Japan",
-      "value": 84.0363,
-      "unit": "years",
-      "format": "decimal"
-    }
-  ],
+  "highlights": [],
   "featured_indicators": [
     "gdp_current_usd",
     "gdp_per_capita_usd",

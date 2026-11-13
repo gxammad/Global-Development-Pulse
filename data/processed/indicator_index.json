@@ -10,9 +10,9 @@
     "format": "currency",
     "chart_type": "area",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "gdp_per_capita_usd",
@@ -25,9 +25,9 @@
     "format": "currency",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "gdp_growth_annual",
@@ -40,9 +40,9 @@
     "format": "percentage",
     "chart_type": "bar",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "inflation_consumer_prices",
@@ -55,9 +55,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "exports_percent_gdp",
@@ -70,9 +70,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "imports_percent_gdp",
@@ -85,9 +85,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "fdi_net_inflows_percent_gdp",
@@ -100,9 +100,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "population_total",
@@ -115,9 +115,9 @@
     "format": "number",
     "chart_type": "area",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "population_growth_annual",
@@ -130,9 +130,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "urban_population_percent",
@@ -145,9 +145,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "life_expectancy_birth",
@@ -160,9 +160,9 @@
     "format": "decimal",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "birth_rate_crude",
@@ -175,9 +175,9 @@
     "format": "decimal",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "death_rate_crude",
@@ -190,9 +190,9 @@
     "format": "decimal",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "unemployment_rate",
@@ -205,9 +205,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "labor_force_participation",
@@ -220,9 +220,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "employment_to_population_ratio",
@@ -235,9 +235,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "school_enrollment_primary",
@@ -250,9 +250,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "school_enrollment_secondary",
@@ -265,9 +265,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "education_expenditure_gdp",
@@ -280,9 +280,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "literacy_rate_adult",
@@ -295,9 +295,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 8,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "internet_users_percent",
@@ -310,9 +310,9 @@
     "format": "percentage",
     "chart_type": "area",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "mobile_subscriptions_per_100",
@@ -325,9 +325,9 @@
     "format": "decimal",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "secure_internet_servers_per_million",
@@ -340,9 +340,9 @@
     "format": "number",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "forest_area_percent",
@@ -355,9 +355,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "renewable_electricity_output",
@@ -370,9 +370,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2021
+    "latest_global_year": null
   },
   {
     "id": "renewable_energy_consumption_percent",
@@ -385,9 +385,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2021
+    "latest_global_year": null
   },
   {
     "id": "energy_use_per_capita",
@@ -400,9 +400,9 @@
     "format": "number",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "electricity_access_percent",
@@ -415,9 +415,9 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "electric_power_consumption_per_capita",
@@ -430,9 +430,9 @@
     "format": "number",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   },
   {
     "id": "agricultural_land_percent",
@@ -445,8 +445,8 @@
     "format": "percentage",
     "chart_type": "line",
     "descriptive_only": true,
-    "reporting_countries_count": 15,
+    "reporting_countries_count": 0,
     "total_countries_count": 15,
-    "latest_global_year": 2024
+    "latest_global_year": null
   }
 ]
