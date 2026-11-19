@@ -23,9 +23,110 @@
         "capital": "Islamabad",
         "flag_emoji": "\ud83c\uddf5\ud83c\uddf0"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.3028
+        },
+        {
+          "year": 2001,
+          "value": 4.283
+        },
+        {
+          "year": 2002,
+          "value": 4.2633
+        },
+        {
+          "year": 2003,
+          "value": 4.2436
+        },
+        {
+          "year": 2004,
+          "value": 4.2238
+        },
+        {
+          "year": 2005,
+          "value": 4.2041
+        },
+        {
+          "year": 2006,
+          "value": 4.1844
+        },
+        {
+          "year": 2007,
+          "value": 4.1647
+        },
+        {
+          "year": 2008,
+          "value": 4.1449
+        },
+        {
+          "year": 2009,
+          "value": 4.1252
+        },
+        {
+          "year": 2010,
+          "value": 4.1055
+        },
+        {
+          "year": 2011,
+          "value": 4.0721
+        },
+        {
+          "year": 2012,
+          "value": 4.0387
+        },
+        {
+          "year": 2013,
+          "value": 4.0052
+        },
+        {
+          "year": 2014,
+          "value": 3.9718
+        },
+        {
+          "year": 2015,
+          "value": 3.9384
+        },
+        {
+          "year": 2016,
+          "value": 3.952
+        },
+        {
+          "year": 2017,
+          "value": 3.9656
+        },
+        {
+          "year": 2018,
+          "value": 3.9793
+        },
+        {
+          "year": 2019,
+          "value": 3.9929
+        },
+        {
+          "year": 2020,
+          "value": 4.0065
+        },
+        {
+          "year": 2021,
+          "value": 4.0335
+        },
+        {
+          "year": 2022,
+          "value": 4.0604
+        },
+        {
+          "year": 2023,
+          "value": 4.0874
+        },
+        {
+          "year": 2024,
+          "value": 4.1143
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 4.1143
     },
     "IND": {
       "country": {
@@ -38,9 +139,110 @@
         "capital": "New Delhi",
         "flag_emoji": "\ud83c\uddee\ud83c\uddf3"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 22.7335
+        },
+        {
+          "year": 2001,
+          "value": 22.7976
+        },
+        {
+          "year": 2002,
+          "value": 22.8616
+        },
+        {
+          "year": 2003,
+          "value": 22.9257
+        },
+        {
+          "year": 2004,
+          "value": 22.9898
+        },
+        {
+          "year": 2005,
+          "value": 23.0539
+        },
+        {
+          "year": 2006,
+          "value": 23.1179
+        },
+        {
+          "year": 2007,
+          "value": 23.182
+        },
+        {
+          "year": 2008,
+          "value": 23.2461
+        },
+        {
+          "year": 2009,
+          "value": 23.3101
+        },
+        {
+          "year": 2010,
+          "value": 23.3742
+        },
+        {
+          "year": 2011,
+          "value": 23.4638
+        },
+        {
+          "year": 2012,
+          "value": 23.5534
+        },
+        {
+          "year": 2013,
+          "value": 23.643
+        },
+        {
+          "year": 2014,
+          "value": 23.7326
+        },
+        {
+          "year": 2015,
+          "value": 23.8222
+        },
+        {
+          "year": 2016,
+          "value": 23.9218
+        },
+        {
+          "year": 2017,
+          "value": 24.0215
+        },
+        {
+          "year": 2018,
+          "value": 24.1211
+        },
+        {
+          "year": 2019,
+          "value": 24.2207
+        },
+        {
+          "year": 2020,
+          "value": 24.3203
+        },
+        {
+          "year": 2021,
+          "value": 24.3493
+        },
+        {
+          "year": 2022,
+          "value": 24.3782
+        },
+        {
+          "year": 2023,
+          "value": 24.4071
+        },
+        {
+          "year": 2024,
+          "value": 24.436
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 24.436
     },
     "BGD": {
       "country": {
@@ -53,9 +255,110 @@
         "capital": "Dhaka",
         "flag_emoji": "\ud83c\udde7\ud83c\udde9"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 14.7525
+        },
+        {
+          "year": 2001,
+          "value": 14.7278
+        },
+        {
+          "year": 2002,
+          "value": 14.7032
+        },
+        {
+          "year": 2003,
+          "value": 14.6785
+        },
+        {
+          "year": 2004,
+          "value": 14.6538
+        },
+        {
+          "year": 2005,
+          "value": 14.6293
+        },
+        {
+          "year": 2006,
+          "value": 14.6046
+        },
+        {
+          "year": 2007,
+          "value": 14.5799
+        },
+        {
+          "year": 2008,
+          "value": 14.5553
+        },
+        {
+          "year": 2009,
+          "value": 14.5306
+        },
+        {
+          "year": 2010,
+          "value": 14.506
+        },
+        {
+          "year": 2011,
+          "value": 14.4983
+        },
+        {
+          "year": 2012,
+          "value": 14.4907
+        },
+        {
+          "year": 2013,
+          "value": 14.4832
+        },
+        {
+          "year": 2014,
+          "value": 14.4756
+        },
+        {
+          "year": 2015,
+          "value": 14.468
+        },
+        {
+          "year": 2016,
+          "value": 14.4604
+        },
+        {
+          "year": 2017,
+          "value": 14.4528
+        },
+        {
+          "year": 2018,
+          "value": 14.4453
+        },
+        {
+          "year": 2019,
+          "value": 14.4377
+        },
+        {
+          "year": 2020,
+          "value": 14.4301
+        },
+        {
+          "year": 2021,
+          "value": 14.4224
+        },
+        {
+          "year": 2022,
+          "value": 14.4148
+        },
+        {
+          "year": 2023,
+          "value": 14.4073
+        },
+        {
+          "year": 2024,
+          "value": 14.3997
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 14.3997
     },
     "LKA": {
       "country": {
@@ -68,9 +371,110 @@
         "capital": "Colombo",
         "flag_emoji": "\ud83c\uddf1\ud83c\uddf0"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 35.5787
+        },
+        {
+          "year": 2001,
+          "value": 35.4588
+        },
+        {
+          "year": 2002,
+          "value": 35.3389
+        },
+        {
+          "year": 2003,
+          "value": 35.2191
+        },
+        {
+          "year": 2004,
+          "value": 35.0992
+        },
+        {
+          "year": 2005,
+          "value": 34.9793
+        },
+        {
+          "year": 2006,
+          "value": 34.8594
+        },
+        {
+          "year": 2007,
+          "value": 34.7394
+        },
+        {
+          "year": 2008,
+          "value": 34.6197
+        },
+        {
+          "year": 2009,
+          "value": 34.4998
+        },
+        {
+          "year": 2010,
+          "value": 34.3798
+        },
+        {
+          "year": 2011,
+          "value": 34.1958
+        },
+        {
+          "year": 2012,
+          "value": 34.0118
+        },
+        {
+          "year": 2013,
+          "value": 33.8276
+        },
+        {
+          "year": 2014,
+          "value": 33.6436
+        },
+        {
+          "year": 2015,
+          "value": 33.9012
+        },
+        {
+          "year": 2016,
+          "value": 34.0536
+        },
+        {
+          "year": 2017,
+          "value": 34.206
+        },
+        {
+          "year": 2018,
+          "value": 34.3746
+        },
+        {
+          "year": 2019,
+          "value": 34.5268
+        },
+        {
+          "year": 2020,
+          "value": 34.6817
+        },
+        {
+          "year": 2021,
+          "value": 34.6018
+        },
+        {
+          "year": 2022,
+          "value": 34.5218
+        },
+        {
+          "year": 2023,
+          "value": 34.442
+        },
+        {
+          "year": 2024,
+          "value": 34.3619
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 34.3619
     },
     "NPL": {
       "country": {
@@ -83,9 +487,110 @@
         "capital": "Kathmandu",
         "flag_emoji": "\ud83c\uddf3\ud83c\uddf5"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 41.2663
+        },
+        {
+          "year": 2001,
+          "value": 41.383
+        },
+        {
+          "year": 2002,
+          "value": 41.4998
+        },
+        {
+          "year": 2003,
+          "value": 41.6166
+        },
+        {
+          "year": 2004,
+          "value": 41.7334
+        },
+        {
+          "year": 2005,
+          "value": 41.8502
+        },
+        {
+          "year": 2006,
+          "value": 41.967
+        },
+        {
+          "year": 2007,
+          "value": 42.0838
+        },
+        {
+          "year": 2008,
+          "value": 42.2006
+        },
+        {
+          "year": 2009,
+          "value": 42.3173
+        },
+        {
+          "year": 2010,
+          "value": 42.4341
+        },
+        {
+          "year": 2011,
+          "value": 42.4585
+        },
+        {
+          "year": 2012,
+          "value": 42.483
+        },
+        {
+          "year": 2013,
+          "value": 42.5074
+        },
+        {
+          "year": 2014,
+          "value": 42.5319
+        },
+        {
+          "year": 2015,
+          "value": 42.5563
+        },
+        {
+          "year": 2016,
+          "value": 42.672
+        },
+        {
+          "year": 2017,
+          "value": 42.7877
+        },
+        {
+          "year": 2018,
+          "value": 42.9033
+        },
+        {
+          "year": 2019,
+          "value": 43.019
+        },
+        {
+          "year": 2020,
+          "value": 43.1346
+        },
+        {
+          "year": 2021,
+          "value": 43.2503
+        },
+        {
+          "year": 2022,
+          "value": 43.366
+        },
+        {
+          "year": 2023,
+          "value": 43.4816
+        },
+        {
+          "year": 2024,
+          "value": 43.5973
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 43.5973
     },
     "ARE": {
       "country": {
@@ -98,9 +603,110 @@
         "capital": "Abu Dhabi",
         "flag_emoji": "\ud83c\udde6\ud83c\uddea"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 4.4349
+        },
+        {
+          "year": 2001,
+          "value": 4.4414
+        },
+        {
+          "year": 2002,
+          "value": 4.4479
+        },
+        {
+          "year": 2003,
+          "value": 4.4542
+        },
+        {
+          "year": 2004,
+          "value": 4.4607
+        },
+        {
+          "year": 2005,
+          "value": 4.4672
+        },
+        {
+          "year": 2006,
+          "value": 4.4737
+        },
+        {
+          "year": 2007,
+          "value": 4.4801
+        },
+        {
+          "year": 2008,
+          "value": 4.4865
+        },
+        {
+          "year": 2009,
+          "value": 4.493
+        },
+        {
+          "year": 2010,
+          "value": 4.4994
+        },
+        {
+          "year": 2011,
+          "value": 4.5041
+        },
+        {
+          "year": 2012,
+          "value": 4.5089
+        },
+        {
+          "year": 2013,
+          "value": 4.5135
+        },
+        {
+          "year": 2014,
+          "value": 4.5183
+        },
+        {
+          "year": 2015,
+          "value": 4.523
+        },
+        {
+          "year": 2016,
+          "value": 4.5277
+        },
+        {
+          "year": 2017,
+          "value": 4.5324
+        },
+        {
+          "year": 2018,
+          "value": 4.5372
+        },
+        {
+          "year": 2019,
+          "value": 4.5418
+        },
+        {
+          "year": 2020,
+          "value": 4.5466
+        },
+        {
+          "year": 2021,
+          "value": 4.5514
+        },
+        {
+          "year": 2022,
+          "value": 4.556
+        },
+        {
+          "year": 2023,
+          "value": 4.5608
+        },
+        {
+          "year": 2024,
+          "value": 4.5655
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 4.5655
     },
     "SAU": {
       "country": {
@@ -113,9 +719,110 @@
         "capital": "Riyadh",
         "flag_emoji": "\ud83c\uddf8\ud83c\udde6"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 1.2877
+        },
+        {
+          "year": 2001,
+          "value": 1.2877
+        },
+        {
+          "year": 2002,
+          "value": 1.2877
+        },
+        {
+          "year": 2003,
+          "value": 1.2877
+        },
+        {
+          "year": 2004,
+          "value": 1.2877
+        },
+        {
+          "year": 2005,
+          "value": 1.2877
+        },
+        {
+          "year": 2006,
+          "value": 1.2877
+        },
+        {
+          "year": 2007,
+          "value": 1.2877
+        },
+        {
+          "year": 2008,
+          "value": 1.2877
+        },
+        {
+          "year": 2009,
+          "value": 1.2877
+        },
+        {
+          "year": 2010,
+          "value": 1.2877
+        },
+        {
+          "year": 2011,
+          "value": 1.2877
+        },
+        {
+          "year": 2012,
+          "value": 1.2877
+        },
+        {
+          "year": 2013,
+          "value": 1.2877
+        },
+        {
+          "year": 2014,
+          "value": 1.2877
+        },
+        {
+          "year": 2015,
+          "value": 1.2877
+        },
+        {
+          "year": 2016,
+          "value": 1.2877
+        },
+        {
+          "year": 2017,
+          "value": 1.2877
+        },
+        {
+          "year": 2018,
+          "value": 1.2877
+        },
+        {
+          "year": 2019,
+          "value": 1.2877
+        },
+        {
+          "year": 2020,
+          "value": 1.2877
+        },
+        {
+          "year": 2021,
+          "value": 1.2883
+        },
+        {
+          "year": 2022,
+          "value": 1.289
+        },
+        {
+          "year": 2023,
+          "value": 1.2897
+        },
+        {
+          "year": 2024,
+          "value": 1.2904
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 1.2904
     },
     "GBR": {
       "country": {
@@ -128,9 +835,110 @@
         "capital": "London",
         "flag_emoji": "\ud83c\uddec\ud83c\udde7"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 12.2101
+        },
+        {
+          "year": 2001,
+          "value": 12.2535
+        },
+        {
+          "year": 2002,
+          "value": 12.2969
+        },
+        {
+          "year": 2003,
+          "value": 12.3403
+        },
+        {
+          "year": 2004,
+          "value": 12.3837
+        },
+        {
+          "year": 2005,
+          "value": 12.4271
+        },
+        {
+          "year": 2006,
+          "value": 12.4705
+        },
+        {
+          "year": 2007,
+          "value": 12.514
+        },
+        {
+          "year": 2008,
+          "value": 12.5574
+        },
+        {
+          "year": 2009,
+          "value": 12.6008
+        },
+        {
+          "year": 2010,
+          "value": 12.6442
+        },
+        {
+          "year": 2011,
+          "value": 12.7235
+        },
+        {
+          "year": 2012,
+          "value": 12.8029
+        },
+        {
+          "year": 2013,
+          "value": 12.8822
+        },
+        {
+          "year": 2014,
+          "value": 12.9616
+        },
+        {
+          "year": 2015,
+          "value": 13.041
+        },
+        {
+          "year": 2016,
+          "value": 13.0906
+        },
+        {
+          "year": 2017,
+          "value": 13.1402
+        },
+        {
+          "year": 2018,
+          "value": 13.1898
+        },
+        {
+          "year": 2019,
+          "value": 13.2394
+        },
+        {
+          "year": 2020,
+          "value": 13.289
+        },
+        {
+          "year": 2021,
+          "value": 13.341
+        },
+        {
+          "year": 2022,
+          "value": 13.3931
+        },
+        {
+          "year": 2023,
+          "value": 13.4452
+        },
+        {
+          "year": 2024,
+          "value": 13.4973
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 13.4973
     },
     "USA": {
       "country": {
@@ -143,9 +951,110 @@
         "capital": "Washington, D.C.",
         "flag_emoji": "\ud83c\uddfa\ud83c\uddf8"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 33.1302
+        },
+        {
+          "year": 2001,
+          "value": 33.1868
+        },
+        {
+          "year": 2002,
+          "value": 33.2433
+        },
+        {
+          "year": 2003,
+          "value": 33.2999
+        },
+        {
+          "year": 2004,
+          "value": 33.3565
+        },
+        {
+          "year": 2005,
+          "value": 33.4131
+        },
+        {
+          "year": 2006,
+          "value": 33.4697
+        },
+        {
+          "year": 2007,
+          "value": 33.5262
+        },
+        {
+          "year": 2008,
+          "value": 33.6361
+        },
+        {
+          "year": 2009,
+          "value": 33.6927
+        },
+        {
+          "year": 2010,
+          "value": 33.7494
+        },
+        {
+          "year": 2011,
+          "value": 33.7795
+        },
+        {
+          "year": 2012,
+          "value": 33.8095
+        },
+        {
+          "year": 2013,
+          "value": 33.8396
+        },
+        {
+          "year": 2014,
+          "value": 33.8697
+        },
+        {
+          "year": 2015,
+          "value": 33.8997
+        },
+        {
+          "year": 2016,
+          "value": 33.8814
+        },
+        {
+          "year": 2017,
+          "value": 33.863
+        },
+        {
+          "year": 2018,
+          "value": 33.8446
+        },
+        {
+          "year": 2019,
+          "value": 33.8263
+        },
+        {
+          "year": 2020,
+          "value": 33.8079
+        },
+        {
+          "year": 2021,
+          "value": 33.8
+        },
+        {
+          "year": 2022,
+          "value": 33.7922
+        },
+        {
+          "year": 2023,
+          "value": 33.7843
+        },
+        {
+          "year": 2024,
+          "value": 33.7764
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 33.7764
     },
     "CAN": {
       "country": {
@@ -158,9 +1067,110 @@
         "capital": "Ottawa",
         "flag_emoji": "\ud83c\udde8\ud83c\udde6"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 40.1875
+        },
+        {
+          "year": 2001,
+          "value": 40.2447
+        },
+        {
+          "year": 2002,
+          "value": 40.3019
+        },
+        {
+          "year": 2003,
+          "value": 40.3591
+        },
+        {
+          "year": 2004,
+          "value": 40.4162
+        },
+        {
+          "year": 2005,
+          "value": 40.4734
+        },
+        {
+          "year": 2006,
+          "value": 40.5306
+        },
+        {
+          "year": 2007,
+          "value": 40.5878
+        },
+        {
+          "year": 2008,
+          "value": 40.6449
+        },
+        {
+          "year": 2009,
+          "value": 40.7021
+        },
+        {
+          "year": 2010,
+          "value": 40.7593
+        },
+        {
+          "year": 2011,
+          "value": 40.8165
+        },
+        {
+          "year": 2012,
+          "value": 40.8736
+        },
+        {
+          "year": 2013,
+          "value": 40.9308
+        },
+        {
+          "year": 2014,
+          "value": 40.988
+        },
+        {
+          "year": 2015,
+          "value": 41.0452
+        },
+        {
+          "year": 2016,
+          "value": 41.0647
+        },
+        {
+          "year": 2017,
+          "value": 41.0842
+        },
+        {
+          "year": 2018,
+          "value": 41.1036
+        },
+        {
+          "year": 2019,
+          "value": 41.1231
+        },
+        {
+          "year": 2020,
+          "value": 41.1426
+        },
+        {
+          "year": 2021,
+          "value": 41.9696
+        },
+        {
+          "year": 2022,
+          "value": 41.9685
+        },
+        {
+          "year": 2023,
+          "value": 41.9674
+        },
+        {
+          "year": 2024,
+          "value": 41.9662
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 41.9662
     },
     "DEU": {
       "country": {
@@ -173,9 +1183,110 @@
         "capital": "Berlin",
         "flag_emoji": "\ud83c\udde9\ud83c\uddea"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 32.5376
+        },
+        {
+          "year": 2001,
+          "value": 32.558
+        },
+        {
+          "year": 2002,
+          "value": 32.5775
+        },
+        {
+          "year": 2003,
+          "value": 32.598
+        },
+        {
+          "year": 2004,
+          "value": 32.6175
+        },
+        {
+          "year": 2005,
+          "value": 32.6342
+        },
+        {
+          "year": 2006,
+          "value": 32.6537
+        },
+        {
+          "year": 2007,
+          "value": 32.6742
+        },
+        {
+          "year": 2008,
+          "value": 32.6937
+        },
+        {
+          "year": 2009,
+          "value": 32.7113
+        },
+        {
+          "year": 2010,
+          "value": 32.7309
+        },
+        {
+          "year": 2011,
+          "value": 32.7458
+        },
+        {
+          "year": 2012,
+          "value": 32.7617
+        },
+        {
+          "year": 2013,
+          "value": 32.7438
+        },
+        {
+          "year": 2014,
+          "value": 32.7559
+        },
+        {
+          "year": 2015,
+          "value": 32.7736
+        },
+        {
+          "year": 2016,
+          "value": 32.7404
+        },
+        {
+          "year": 2017,
+          "value": 32.7532
+        },
+        {
+          "year": 2018,
+          "value": 32.766
+        },
+        {
+          "year": 2019,
+          "value": 32.7788
+        },
+        {
+          "year": 2020,
+          "value": 32.7926
+        },
+        {
+          "year": 2021,
+          "value": 32.8063
+        },
+        {
+          "year": 2022,
+          "value": 32.8229
+        },
+        {
+          "year": 2023,
+          "value": 32.83
+        },
+        {
+          "year": 2024,
+          "value": 32.8438
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 32.8438
     },
     "FRA": {
       "country": {
@@ -188,9 +1299,110 @@
         "capital": "Paris",
         "flag_emoji": "\ud83c\uddeb\ud83c\uddf7"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 28.3663
+        },
+        {
+          "year": 2001,
+          "value": 28.5761
+        },
+        {
+          "year": 2002,
+          "value": 28.786
+        },
+        {
+          "year": 2003,
+          "value": 28.9958
+        },
+        {
+          "year": 2004,
+          "value": 29.2057
+        },
+        {
+          "year": 2005,
+          "value": 29.4155
+        },
+        {
+          "year": 2006,
+          "value": 29.6254
+        },
+        {
+          "year": 2007,
+          "value": 29.8352
+        },
+        {
+          "year": 2008,
+          "value": 30.0451
+        },
+        {
+          "year": 2009,
+          "value": 30.2549
+        },
+        {
+          "year": 2010,
+          "value": 30.4648
+        },
+        {
+          "year": 2011,
+          "value": 30.6195
+        },
+        {
+          "year": 2012,
+          "value": 30.7743
+        },
+        {
+          "year": 2013,
+          "value": 30.929
+        },
+        {
+          "year": 2014,
+          "value": 31.0838
+        },
+        {
+          "year": 2015,
+          "value": 31.2385
+        },
+        {
+          "year": 2016,
+          "value": 31.4285
+        },
+        {
+          "year": 2017,
+          "value": 31.6185
+        },
+        {
+          "year": 2018,
+          "value": 31.8085
+        },
+        {
+          "year": 2019,
+          "value": 31.9985
+        },
+        {
+          "year": 2020,
+          "value": 32.1885
+        },
+        {
+          "year": 2021,
+          "value": 32.3544
+        },
+        {
+          "year": 2022,
+          "value": 32.5203
+        },
+        {
+          "year": 2023,
+          "value": 32.6861
+        },
+        {
+          "year": 2024,
+          "value": 32.852
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 32.852
     },
     "JPN": {
       "country": {
@@ -203,9 +1415,110 @@
         "capital": "Tokyo",
         "flag_emoji": "\ud83c\uddef\ud83c\uddf5"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 68.2469
+        },
+        {
+          "year": 2001,
+          "value": 68.2716
+        },
+        {
+          "year": 2002,
+          "value": 68.2963
+        },
+        {
+          "year": 2003,
+          "value": 68.321
+        },
+        {
+          "year": 2004,
+          "value": 68.3457
+        },
+        {
+          "year": 2005,
+          "value": 68.3704
+        },
+        {
+          "year": 2006,
+          "value": 68.3951
+        },
+        {
+          "year": 2007,
+          "value": 68.4198
+        },
+        {
+          "year": 2008,
+          "value": 68.4444
+        },
+        {
+          "year": 2009,
+          "value": 68.4691
+        },
+        {
+          "year": 2010,
+          "value": 68.4938
+        },
+        {
+          "year": 2011,
+          "value": 68.4818
+        },
+        {
+          "year": 2012,
+          "value": 68.4697
+        },
+        {
+          "year": 2013,
+          "value": 68.4576
+        },
+        {
+          "year": 2014,
+          "value": 68.4455
+        },
+        {
+          "year": 2015,
+          "value": 68.4335
+        },
+        {
+          "year": 2016,
+          "value": 68.4198
+        },
+        {
+          "year": 2017,
+          "value": 68.406
+        },
+        {
+          "year": 2018,
+          "value": 68.3923
+        },
+        {
+          "year": 2019,
+          "value": 68.3786
+        },
+        {
+          "year": 2020,
+          "value": 68.3649
+        },
+        {
+          "year": 2021,
+          "value": 68.3588
+        },
+        {
+          "year": 2022,
+          "value": 68.3528
+        },
+        {
+          "year": 2023,
+          "value": 68.3468
+        },
+        {
+          "year": 2024,
+          "value": 68.3407
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 68.3407
     },
     "AUS": {
       "country": {
@@ -218,9 +1531,110 @@
         "capital": "Canberra",
         "flag_emoji": "\ud83c\udde6\ud83c\uddfa"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 17.3005
+        },
+        {
+          "year": 2001,
+          "value": 17.2779
+        },
+        {
+          "year": 2002,
+          "value": 17.2553
+        },
+        {
+          "year": 2003,
+          "value": 17.2327
+        },
+        {
+          "year": 2004,
+          "value": 17.2101
+        },
+        {
+          "year": 2005,
+          "value": 17.1875
+        },
+        {
+          "year": 2006,
+          "value": 17.1649
+        },
+        {
+          "year": 2007,
+          "value": 17.1423
+        },
+        {
+          "year": 2008,
+          "value": 17.1197
+        },
+        {
+          "year": 2009,
+          "value": 17.0971
+        },
+        {
+          "year": 2010,
+          "value": 17.0745
+        },
+        {
+          "year": 2011,
+          "value": 17.1093
+        },
+        {
+          "year": 2012,
+          "value": 17.144
+        },
+        {
+          "year": 2013,
+          "value": 17.1788
+        },
+        {
+          "year": 2014,
+          "value": 17.2136
+        },
+        {
+          "year": 2015,
+          "value": 17.2484
+        },
+        {
+          "year": 2016,
+          "value": 17.247
+        },
+        {
+          "year": 2017,
+          "value": 17.2674
+        },
+        {
+          "year": 2018,
+          "value": 17.2877
+        },
+        {
+          "year": 2019,
+          "value": 17.3081
+        },
+        {
+          "year": 2020,
+          "value": 17.3285
+        },
+        {
+          "year": 2021,
+          "value": 17.3355
+        },
+        {
+          "year": 2022,
+          "value": 17.3426
+        },
+        {
+          "year": 2023,
+          "value": 17.3496
+        },
+        {
+          "year": 2024,
+          "value": 17.3651
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 17.3651
     },
     "CHN": {
       "country": {
@@ -233,9 +1647,110 @@
         "capital": "Beijing",
         "flag_emoji": "\ud83c\udde8\ud83c\uddf3"
       },
-      "time_series": [],
-      "latest_year": null,
-      "latest_value": null
+      "time_series": [
+        {
+          "year": 2000,
+          "value": 18.8535
+        },
+        {
+          "year": 2001,
+          "value": 19.105
+        },
+        {
+          "year": 2002,
+          "value": 19.3565
+        },
+        {
+          "year": 2003,
+          "value": 19.6079
+        },
+        {
+          "year": 2004,
+          "value": 19.8594
+        },
+        {
+          "year": 2005,
+          "value": 20.1109
+        },
+        {
+          "year": 2006,
+          "value": 20.3624
+        },
+        {
+          "year": 2007,
+          "value": 20.6139
+        },
+        {
+          "year": 2008,
+          "value": 20.8654
+        },
+        {
+          "year": 2009,
+          "value": 21.1168
+        },
+        {
+          "year": 2010,
+          "value": 21.3683
+        },
+        {
+          "year": 2011,
+          "value": 21.5746
+        },
+        {
+          "year": 2012,
+          "value": 21.7809
+        },
+        {
+          "year": 2013,
+          "value": 21.9872
+        },
+        {
+          "year": 2014,
+          "value": 22.1935
+        },
+        {
+          "year": 2015,
+          "value": 22.3998
+        },
+        {
+          "year": 2016,
+          "value": 22.5874
+        },
+        {
+          "year": 2017,
+          "value": 22.7749
+        },
+        {
+          "year": 2018,
+          "value": 22.9625
+        },
+        {
+          "year": 2019,
+          "value": 23.15
+        },
+        {
+          "year": 2020,
+          "value": 23.3376
+        },
+        {
+          "year": 2021,
+          "value": 23.5092
+        },
+        {
+          "year": 2022,
+          "value": 23.6808
+        },
+        {
+          "year": 2023,
+          "value": 23.8524
+        },
+        {
+          "year": 2024,
+          "value": 24.024
+        }
+      ],
+      "latest_year": 2024,
+      "latest_value": 24.024
     }
   }
 }
